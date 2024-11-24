@@ -1,5 +1,4 @@
 // src/app/artists/[slug]/page.tsx
-import React from "react";
 import { notFound } from "next/navigation";
 import { artists, Artist } from "../../../data/artists";
 
@@ -9,7 +8,7 @@ interface ArtistPageProps {
   };
 }
 
-const ArtistPage: React.FC<ArtistPageProps> = ({ params }) => {
+export default function ArtistPage({ params }: ArtistPageProps) {
   const artist: Artist | undefined = artists.find(
     (a) => a.slug === params.slug
   );
@@ -44,6 +43,4 @@ const ArtistPage: React.FC<ArtistPageProps> = ({ params }) => {
       </section>
     </div>
   );
-};
-
-export default ArtistPage;
+}
