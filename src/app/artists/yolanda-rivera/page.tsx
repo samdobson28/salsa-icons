@@ -3,7 +3,7 @@
 import ArtistLayout from "../../../components/ArtistLayout";
 
 export default function YolandaRiveraPage() {
-  const biography = `Yolanda Rivera is a distinguished Mexican singer known for her contributions to traditional and contemporary Latin music. With a career spanning several decades, she has released numerous albums that showcase her versatile vocal abilities and deep emotional expression.`;
+  const biography = `Yolanda Rivera is ... TBD`;
 
   const discography = [
     "Mujer Divina (1995)",
