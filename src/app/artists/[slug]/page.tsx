@@ -11,6 +11,7 @@ interface ArtistPageProps {
 }
 
 export default function ArtistPage({ params }: ArtistPageProps) {
+  const { slug } = params;
   const artist: Artist | undefined = artists.find(
     (a) => a.slug === params.slug
   );
