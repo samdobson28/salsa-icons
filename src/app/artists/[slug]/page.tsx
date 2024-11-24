@@ -1,15 +1,15 @@
 // src/app/artists/[slug]/page.tsx
+
 import { notFound } from "next/navigation";
 import { artists, Artist } from "../../../data/artists";
 
-// Define the props inline without using a separate interface
+// Define the props inline without using React.FC or separate interfaces
 interface ArtistPageProps {
   params: {
     slug: string;
   };
 }
 
-// If you don't need to perform async operations, define the component as a regular function
 export default function ArtistPage({ params }: ArtistPageProps) {
   const artist: Artist | undefined = artists.find(
     (a) => a.slug === params.slug
