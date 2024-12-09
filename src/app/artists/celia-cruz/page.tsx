@@ -6,9 +6,11 @@ import ArtistLayout from "../../../components/ArtistLayout";
 const CeliaCruzPage: React.FC = () => {
   const biography = (
     <div>
-      {/* Origins Section */}
+      {/* Origins, Musical Inspirations, and Early Career Section */}
       <section className="mb-6">
-        <h2 className="text-2xl font-semibold text-salsa mb-2">Origins</h2>
+        <h2 className="text-2xl font-semibold text-salsa mb-2">
+          Origins, Musical Inspirations, and Early Career
+        </h2>
         <p className="mb-4">
           Born in 1925 in the Santos Suarez neighborhood of Havana, Úrsula
           Hilaria Celia de la Caridad Cruz Alfonso, also known as “Celia Cruz”,
@@ -18,21 +20,33 @@ const CeliaCruzPage: React.FC = () => {
           musical journey began when her aunt and cousin encouraged her to
           perform at local cabarets during her teenage years. Despite financial
           struggles and lack of support from her father, she was determined and
-          continued winning small prizes including soap and chocolates, and even
-          a silver necklace. Growing up in the working class scene of Cuba, she
-          was heavily influenced by legendary Cuban musicians like Fernando
-          Collazo and Arsenio Rodríguez. Eventually, Cruz studied voice, theory,
-          and piano at Havana’s National Conservatory of Music. In the late
-          1940s, she gained recognition through a radio contest called The Tea
-          Hour, catching the attention of producers and musicians. Her career
-          advanced as she became a regular performer on CMQ Radio’s Estrellas
-          Nacientes, and demonstrated versatility, performing genres like rumba
-          (rooted in African diaspora) and guaracha, known for its playful
-          lyrics and fast tempo. She toured across Latin America with the dance
-          group Las Mulatas del Fuego and finally in 1950, she had her big break
-          as she joined La Sonora Matancera, Cuba’s celebrated orchestra, as the
-          lead singer. Her success as an independent Salsa artist occurred much
-          later in life, after her move to the United States.
+          continued winning small prizes including soap and chocolates and even
+          a silver necklace.
+        </p>
+        <p className="mb-4">
+          Growing up in the working class of Cuba, she was heavily influenced by
+          Cuban musicians like Fernando Collazo and Arsenio Rodríguez.
+          Eventually, she studied voice, theory, and piano at Havana’s National
+          Conservatory of Music. In the late 1940s, she gained recognition
+          through a radio contest called The Tea Hour, catching the attention of
+          producers and musicians. Her career progressed as she became a regular
+          performer on CMQ Radio’s Estrellas Nacientes, and demonstrated
+          versatility, performing genres like rumba (rooted in African diaspora)
+          and guaracha, known for its playful lyrics and fast tempo.
+        </p>
+        <p className="mb-4">
+          She toured across Latin America with the dance group Las Mulatas del
+          Fuego and finally in 1950, she had her big break as she joined La
+          Sonora Matancera, Cuba’s celebrated orchestra, as the lead singer. Her
+          success as a solo salsa artist occurred later in life, after her move
+          to the United States.
+        </p>
+        <p className="mb-4">
+          Celia Cruz's ability to blend traditional Cuban sounds with
+          contemporary styles allowed her to connect with a broad audience. Her
+          charisma, powerful voice, and signature cry &ldquo;azúcar&rdquo;
+          became synonymous with her brand, making her a beloved figure in the
+          salsa world.
         </p>
       </section>
 
@@ -43,99 +57,92 @@ const CeliaCruzPage: React.FC = () => {
         </h2>
         <p className="mb-4">
           Celia Cruz’s rise to fame was far from straightforward and involved
-          several obstacles. Born in 1925 in a society where the music industry
-          was male-dominated, Cruz faced cultural barriers that deemed
-          professional music unsuitable for women. Her father wanted her to
-          pursue teaching instead since the industry was anchored in nightclubs
-          often associated with drugs and alcohol, where opportunities for women
-          were scarce and involved with dangers like sexual harassment.
+          obstacles along the way. Born in 1925 in a society where music was
+          male-dominated, Cruz faced cultural barriers that deemed professional
+          music unsuitable for women. Her father wanted her to pursue teaching
+          instead since the industry was anchored in nightclubs and often
+          associated with drugs and alcohol. Opportunities for women were not
+          only scarce but involved with dangers like sexual harassment.
         </p>
         <p className="mb-4">
           As an Afro-Cuban woman, Cruz faced intersectional discrimination,
-          battling racism, sexism, and colorism that marginalized her both
-          socially and professionally—beauty ideals often excluded women of her
-          complexion. The political climate in Cuba added another layer of
-          complexity. Fidel Castro’s government imposed restrictions on music,
-          limiting artistic expression and the venues where it could be
+          struggling with racism, sexism, and colorism that marginalized her
+          socially and professionally. Beauty ideals at the time often excluded
+          her complexion. The political climate in Cuba did not help either.
+          Fidel Castro’s government imposed restrictions on music, which limited
+          both artistic expression and venues like nightclubs where it could be
           performed. Furthermore, when Cruz moved to the United States, she was
           exiled and separated from her family indefinitely, facing isolation
           while adapting to a new culture and industry.
         </p>
         <p className="mb-4">
-          However, her extraordinary talent and determination allowed Cruz to
-          triumph against all odds. Her deep “percussive” contralto voice
-          emboldened her claim to songs traditionally reserved for male
+          However, her extraordinary talent and resilience allowed Cruz to
+          triumph against all odds. Her deep &ldquo;percussive&rdquo; contralto
+          voice emboldened her claim to songs traditionally reserved for male
           vocalists. Joining La Sonora Matancera in 1950 marked a pivotal moment
           as she broke into the industry alongside other male artists and
           kick-started her career. Furthermore, despite the personal sacrifice
-          involved, her move to the United States opened new doors, allowing her
-          to collaborate with icons like Tito Puente and Willie Colón,
-          experiment with genres, and ultimately help define the emerging salsa
-          movement. Her versatility and willingness to experiment with genres
-          helped Cruz stay relevant and emerge as a powerful solo artist,
-          especially with the rise of salsa. Collaborating with Fania All-Stars,
-          her song “Quimbara” became an anthem for the genre, and she became a
-          global icon, who came to be known as the Queen of Salsa. Cruz’s
-          charisma and fame extended beyond her music—her flamboyant style, from
-          elaborate wigs to vibrant costumes as well as the iconic cry “azúcar”,
-          celebrated Afro-Caribbean culture while defying the rigid beauty
-          standards that marginalized women like her. By embracing her heritage
-          and boldly claiming her space in a male-dominated industry, Cruz paved
+          involved, her move to the United States opened new opportunities,
+          allowing her to collaborate with icons like Tito Puente and Willie
+          Colón. She could experiment with genres and ultimately helped define
+          the emerging salsa movement with Fania All-Stars.
+        </p>
+        <p className="mb-4">
+          Her versatility and willingness to experiment with genres helped Cruz
+          stay relevant and emerge as a powerful solo artist. Collaborating with
+          Fania All-Stars, her song &ldquo;Quimbara&rdquo; became an anthem, and
+          she came to be known as the Queen of Salsa. Her flamboyant style,
+          including elaborate wigs and colorful costumes, as well as her iconic
+          cry &ldquo;azúcar&rdquo;, celebrated Afro-Caribbean culture while
+          defying the rigid beauty standards that had excluded her. She paved
           the way for several women artists, becoming a symbol of empowerment.
         </p>
-      </section>
-
-      {/* Connection with Audiences Section */}
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold text-salsa mb-2">
-          Connection with Audiences
-        </h2>
         <p className="mb-4">
           Cruz possessed the ability to connect with audiences transcending
           barriers of language, age, or political ideology. Although her music
           was in Spanish, she gained global recognition. She balanced her joyous
-          public persona with a deep commitment and passion for her work,
-          describing herself as a “singer of the people.” Furthermore, she
-          constantly asserted “No hago de mi arte una bandera politica” (I don’t
-          make my art into a political banner). This refusal to politicize her
-          work and her dedication to her fans earned Cruz a loyal fanbase,
-          allowing her music to resonate universally. Performing everywhere from
-          Carnegie Hall to children’s television shows like Sesame Street, her
-          reach extended across generations and cultures.
+          public persona with a deep passion for her work, describing herself as
+          a &ldquo;singer of the people.&rdquo; Furthermore, she constantly
+          asserted &ldquo;No hago de mi arte una bandera politica&rdquo; (I
+          don’t make my art into a political banner). This refusal to politicize
+          her work and her dedication to her fans earned Cruz a loyal fanbase,
+          allowing her music to be accepted universally. Performing everywhere
+          from Carnegie Hall to children’s television shows like Sesame Street,
+          she connected with people across generations and cultures.
         </p>
       </section>
 
-      {/* Success, Awards, and Honors Section */}
+      {/* Success: Awards, Influence, and Innovation Section */}
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-salsa mb-2">
-          Success, Awards, and Honors
+          Success: Awards, Influence, and Innovation
         </h2>
         <p className="mb-4">
           Celia Cruz’s success stemmed from her ability to innovate, inspire,
-          and transcend barriers. Known as the Queen of Salsa, she became a
-          global icon, with a career that spanned over five decades and included
-          more than eighty albums and 23 gold records. Cruz constantly redefined
-          Afro-Caribbean music, blending traditional Cuban rhythms with
-          contemporary styles like pop, rock, and rap. Her Grammy-winning
-          collaboration with Ray Barretto on <em>Ritmo en el Corazón</em> (1988)
-          and timeless pieces like <em>La Vida es un Carnaval</em> (1998) and{" "}
-          <em>La Negra Tiene Tumbao</em> (2001), which were recorded in her 70s,
-          demonstrated her ability to innovate and remain relevant across eras.
-          Her last album, <em>Regalo del Alma</em> (Sony, 2002) won a Grammy for
-          the year’s best salsa album.
+          and transcend barriers. As Queen of Salsa, she became a global icon,
+          with a career that spanned over five decades and included more than
+          eighty albums and 23 gold records. Cruz constantly redefined
+          Afro-Caribbean music, blending traditional Cuban music with
+          contemporary styles like pop, rock, and rap. Her Grammy-winning piece
+          with Ray Barretto on <em>Ritmo en el Corazón</em> (1988) and timeless
+          records like <em>La Vida es un Carnaval</em>
+          (1998) and <em>La Negra Tiene Tumbao</em> (2001), which were recorded
+          in her 70s, demonstrated her ability to innovate and remain relevant
+          across eras. Her last album, “<em>Regalo del Alma</em>” (Sony, 2002)
+          won a Grammy for the year’s best salsa album.
         </p>
         <p className="mb-4">
-          Throughout her life, Cruz received several prestigious awards
-          including five Grammy Awards, a Smithsonian Lifetime Achievement
-          Award, a National Endowment for the Arts medal, and a Congressional
-          Gold Medal. She was also honored on Miami’s Calle Ocho and Madison
-          Square Garden’s Wall of Fame, and has a star on the Hollywood Walk of
-          Fame. Cruz’s discography demonstrates her innovation and some of the
-          most notable pieces include:
+          Throughout her life, Cruz received several awards including five
+          Grammy Awards, a Smithsonian Lifetime Achievement Award, a National
+          Endowment for the Arts medal, and a Congressional Gold Medal. She was
+          also honored on Miami’s Calle Ocho and Madison Square Garden’s Wall of
+          Fame, and has a star on the Hollywood Walk of Fame. Cruz’s discography
+          demonstrates her innovation and some of the most notable pieces
+          include:
         </p>
         <ul className="list-disc list-inside mb-4">
           <li>
-            <em>Guantanamera</em> (1960)
+            <em>Guantanamera</em> (1968)
           </li>
           <li>
             <em>Bemba Colora</em> (1966)
@@ -144,16 +151,16 @@ const CeliaCruzPage: React.FC = () => {
             <em>Quimbara</em> (1974)
           </li>
           <li>
-            <em>Cucula</em> (1983)
+            <em>Cucula</em> (1975)
           </li>
           <li>
-            <em>La Negra Tiene Tumbao</em>
+            <em>La Negra Tiene Tumbao</em> (2001)
           </li>
         </ul>
-        <p>
+        <p className="mb-4">
           Celia Cruz redefined Afro-Caribbean music by blending traditional
           sounds with modern styles. Her remarkable success not only solidified
-          her legacy as the Queen of Salsa but also paved the way for future
+          her legacy as the Queen of Salsa but also opened doors for future
           generations of female musicians.
         </p>
       </section>
@@ -174,7 +181,7 @@ const CeliaCruzPage: React.FC = () => {
           </li>
           <li>
             <a
-              href="https://www.womenshistory.org/education-resources/biographies/celia-cruz#:~:text=Cruz%20stood%20out%20as%20one,a%20flashy%2C%20feminine%20public%20persona."
+              href="https://womenshistory.org/education-resources/biographies/celia-cruz#:~:text=Cruz%20stood%20out%20as%20one,a%20flashy%2C%20feminine%20public%20persona."
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
@@ -194,7 +201,7 @@ const CeliaCruzPage: React.FC = () => {
           </li>
           <li>
             <a
-              href="https://www.woodlawn.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/"
+              href="https://www.woodlawncemetery.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
@@ -219,11 +226,14 @@ const CeliaCruzPage: React.FC = () => {
   );
 
   const discography = [
-    "Guantanamera (1960)",
+    "Guantanamera (1968)",
     "Bemba Colora (1966)",
     "Quimbara (1974)",
-    "Cucula (1983)",
-    "La Negra Tiene Tumbao",
+    "Cucula (1975)",
+    "La Negra Tiene Tumbao (2001)",
+    "Ritmo en el Corazón (1988)",
+    "La Vida es un Carnaval (1998)",
+    "Regalo del Alma (2002)",
     // Add more albums as needed
   ];
 
