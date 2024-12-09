@@ -9,7 +9,7 @@ const GloriaEstefanPage: React.FC = () => {
       {/* Origins, Music Inspirations, and Early Career Section */}
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-salsa mb-2">
-          Origins, Music Inspirations, and Early Career
+          Origins, Musical Inspirations, and Early Career
         </h2>
         <p className="mb-4">
           Gloria Estefan is a Cuban-American contralto and one of the
@@ -36,12 +36,12 @@ const GloriaEstefanPage: React.FC = () => {
         </p>
         <p className="mb-4">
           From 1976 to 1989, Miami Sound Machine released several hit albums and
-          singles, including the iconic "Conga," which became the group's
-          signature song. "Conga" reached number 10 on the Billboard Hot 100 and
-          number one on the Billboard Dance Club Songs chart, marking a
-          significant milestone as the first single by a Latin group to
-          crossover from the Latin charts to the pop charts in American music
-          history.
+          singles, including the iconic &ldquo;Conga&rdquo;, which became the
+          group's signature song. &ldquo;Conga&rdquo; reached number 10 on the
+          Billboard Hot 100 and number one on the Billboard Dance Club Songs
+          chart, marking a significant milestone as the first single by a Latin
+          group to crossover from the Latin charts to the pop charts in American
+          music history.
         </p>
       </section>
 
@@ -68,7 +68,7 @@ const GloriaEstefanPage: React.FC = () => {
           determination and intensive physical therapy, Gloria made a remarkable
           recovery and returned to performing less than a year later, receiving
           a standing ovation at the American Music Awards with her hit single
-          "Coming Out of the Dark."
+          &ldquo;Coming Out of the Dark&rdquo;.
         </p>
         <p className="mb-4">
           Additionally, at the age of nine, Gloria endured sexual abuse by a
@@ -90,9 +90,9 @@ const GloriaEstefanPage: React.FC = () => {
           initially advised to strip their music of congas, horns, and other
           Latin elements to appeal to the mainstream market. Gloria and Emilio
           Estefan were steadfast in their commitment to their cultural identity,
-          refusing to "water down" their music. This determination paid off when
-          "Conga" became a global hit, solidifying their place in the music
-          industry.
+          refusing to &ldquo;water down&rdquo; their music. This determination
+          paid off when &ldquo;Conga&rdquo; became a global hit, solidifying
+          their place in the music industry.
         </p>
         <p className="mb-4">
           The personal sacrifices Gloria made, including caring for her ill
@@ -190,8 +190,16 @@ const GloriaEstefanPage: React.FC = () => {
             Best Tropical Latin Album.
           </li>
           <li>
-            <em>Alma Caribeña</em> (2000): Focused on Caribbean rhythms, earning
-            her a third Grammy Award.
+            <em>Destiny</em> (1996)
+          </li>
+          <li>
+            <em>gloria!</em> (1998)
+          </li>
+          <li>
+            <em>Unwrapped</em> (2003)
+          </li>
+          <li>
+            <em>Little Miss Havana</em> (2011)
           </li>
           <li>
             <em>90 Millas</em> (2007): Peaked at No.1 on the Billboard Top Latin
@@ -209,85 +217,6 @@ const GloriaEstefanPage: React.FC = () => {
           both English and Spanish music have made her a beloved figure in the
           global music scene.
         </p>
-      </section>
-
-      {/* Sources Section */}
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold text-salsa mb-2">Sources</h2>
-        <ul className="list-disc list-inside">
-          <li>
-            <a
-              href="https://en.wikipedia.org/wiki/Gloria_Estefan"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              Wikipedia. "Gloria Estefan."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://826digital.com/resources/write-with-life-stories-singing-through-struggles-with-gloria-estefan/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              826 Digital. "Write With Life Stories: Singing Through Struggles
-              with Gloria Estefan."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.youtube.com/watch?v=GQYwqAQRjf8"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              YouTube. "Gloria Estefan Interview."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://kbgo.iheart.com/featured/big-95-morning-show/content/2023-09-22-gloria-estefan-recalls-early-career-challenges/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              KBGO. "Gloria Estefan Recalls Early Career Challenges."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.cbsnews.com/news/gloria-estefan-life-career-meeting-her-husband-emilio-estefan/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              CBS News. "Gloria Estefan: Life, Career, Meeting Her Husband
-              Emilio Estefan."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.thejustice.org/article/2023/12/gloria-estefan-the-epitome-of-strength-and-unity"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              The Justice. "Gloria Estefan: The Epitome of Strength and Unity."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://chief.com/articles/gloria-estefan-proud-latina-hispanic-heritage-month/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              CHIEF. "Gloria Estefan: Proud Latina for Hispanic Heritage Month."
-            </a>
-          </li>
-        </ul>
       </section>
     </div>
   );

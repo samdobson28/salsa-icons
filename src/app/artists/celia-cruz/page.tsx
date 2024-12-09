@@ -13,11 +13,11 @@ const CeliaCruzPage: React.FC = () => {
         </h2>
         <p className="mb-4">
           Born in 1925 in the Santos Suarez neighborhood of Havana, Úrsula
-          Hilaria Celia de la Caridad Cruz Alfonso, also known as “Celia Cruz”,
-          became one of the most iconic Latin artists of the 20th century. She
-          was drawn to music from a young age, performing in community
-          gatherings and singing lullabies to children in her family. Her
-          musical journey began when her aunt and cousin encouraged her to
+          Hilaria Celia de la Caridad Cruz Alfonso, also known as &ldquo;Celia
+          Cruz&rdquo;, became one of the most iconic Latin artists of the 20th
+          century. She was drawn to music from a young age, performing in
+          community gatherings and singing lullabies to children in her family.
+          Her musical journey began when her aunt and cousin encouraged her to
           perform at local cabarets during her teenage years. Despite financial
           struggles and lack of support from her father, she was determined and
           continued winning small prizes including soap and chocolates and even

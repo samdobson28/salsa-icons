@@ -91,13 +91,13 @@ const DanielaDarcourtPage: React.FC = () => {
           performances and traditional avenues of income were closed off.
           Despite the global crisis, Darcourt adapted with resilience, employing
           digital media to stay connected with her audience. She conducted
-          virtual concerts and released collaborative projects like Volver,
-          which supported the revitalization of tourism in Peru. During this era
-          of digital media, several traditional barriers in the industry for
-          women disappeared, allowing Darcourt to gain a loyal, global fanbase.
-          Over her career, she continued to collaborate with renowned salsa
-          artists like La India, Tito Nieves, and N’Klabe, emerging as one of
-          the most prominent names in salsa today.
+          virtual concerts and released collaborative projects like{" "}
+          <em>Volver</em>, which supported the revitalization of tourism in
+          Peru. During this era of digital media, several traditional barriers
+          in the industry for women disappeared, allowing Darcourt to gain a
+          loyal, global fanbase. Over her career, she continued to collaborate
+          with renowned salsa artists like La India, Tito Nieves, and N’Klabe,
+          emerging as one of the most prominent names in salsa today.
         </p>
       </section>
 
@@ -123,11 +123,11 @@ const DanielaDarcourtPage: React.FC = () => {
           the Lights Awards in 2019. In 2020, during the pandemic, she also
           received Best Female Artist and Most Active Artist on Social Media at
           the Radiomar Awards, demonstrating her strong connection with her
-          fans. More recently, she has won Concert of the Year ("The Reunion")
-          and Album of the Year ("Starting Over") in 2021 and 2022. In 2023, she
-          received her first Latin Grammy nomination for Best Salsa Album for{" "}
-          <em>Catharsis</em>, establishing her as a strong force in the global
-          salsa scene.
+          fans. More recently, she has won Concert of the Year (&ldquo;The
+          Reunion&rdquo;) and Album of the Year (&ldquo;Starting Over&rdquo;) in
+          2021 and 2022. In 2023, she received her first Latin Grammy nomination
+          for Best Salsa Album for <em>Catharsis</em>, establishing her as a
+          strong force in the global salsa scene.
         </p>
         <p className="mb-4">Some of her most notable works include:</p>
         <ul className="list-disc list-inside mb-4">
@@ -147,7 +147,7 @@ const DanielaDarcourtPage: React.FC = () => {
             <em>Probablemente</em> (2018)
           </li>
         </ul>
-        <p>
+        <p className="mb-4">
           Named one of Forbes’ 50 Most Powerful Peruvian Women in 2024, Daniela
           Darcourt’s success is not only a personal achievement but also a
           powerful symbol of empowerment for women in the salsa and Latin space.
@@ -179,8 +179,8 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              El Popular. "Daniela Darcourt: 'La música me salvó del alcohol y
-              las drogas'."
+              El Popular. "Daniela Darcourt: &ldquo;La música me salvó del
+              alcohol y las drogas&rdquo;."
             </a>
           </li>
           <li>

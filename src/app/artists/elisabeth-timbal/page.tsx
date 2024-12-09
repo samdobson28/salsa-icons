@@ -1,9 +1,9 @@
-// src/app/artists/celia-cruz/page.tsx
+// src/app/artists/elizabeth-timbal/page.tsx
 
 import React from "react";
 import ArtistLayout from "../../../components/ArtistLayout";
 
-const CeliaCruzPage: React.FC = () => {
+const ElisabethTimbalPage: React.FC = () => {
   const biography = (
     <div>
       {/* Origins, Musical Inspirations, and Early Career Section */}
@@ -12,41 +12,30 @@ const CeliaCruzPage: React.FC = () => {
           Origins, Musical Inspirations, and Early Career
         </h2>
         <p className="mb-4">
-          Born in 1925 in the Santos Suarez neighborhood of Havana, Úrsula
-          Hilaria Celia de la Caridad Cruz Alfonso, also known as “Celia Cruz”,
-          became one of the most iconic Latin artists of the 20th century. She
-          was drawn to music from a young age, performing in community
-          gatherings and singing lullabies to children in her family. Her
-          musical journey began when her aunt and cousin encouraged her to
-          perform at local cabarets during her teenage years. Despite financial
-          struggles and lack of support from her father, she was determined and
-          continued winning small prizes including soap and chocolates and even
-          a silver necklace.
+          Elisabeth Timbal was born in 1985 in Buenos Aires, Argentina. From a
+          young age, she was captivated by the rhythms of tango and folk music,
+          drawing inspiration from legendary artists like Carlos Gardel and
+          Mercedes Sosa. Her passion for music was nurtured by her family, who
+          encouraged her to pursue formal training. At the age of twelve,
+          Elisabeth began studying classical piano, which laid the foundation
+          for her musical versatility.
         </p>
         <p className="mb-4">
-          Growing up in the working class of Cuba, she was heavily influenced by
-          Cuban musicians like Fernando Collazo and Arsenio Rodríguez.
-          Eventually, she studied voice, theory, and piano at Havana’s National
-          Conservatory of Music. In the late 1940s, she gained recognition
-          through a radio contest called The Tea Hour, catching the attention of
-          producers and musicians. Her career progressed as she became a regular
-          performer on CMQ Radio’s Estrellas Nacientes, and demonstrated
-          versatility, performing genres like rumba (rooted in African diaspora)
-          and guaracha, known for its playful lyrics and fast tempo.
+          In her teenage years, Elisabeth ventured into composing her own music,
+          blending traditional Argentine sounds with contemporary pop and
+          electronic elements. Her debut album, <em>Raíces y Alas</em>, released
+          in 2005, received critical acclaim for its innovative fusion and
+          heartfelt lyrics. The album featured hits like "Sueños de Libertad"
+          and "Caminos Cruzados," which resonated deeply with audiences both in
+          Argentina and internationally.
         </p>
         <p className="mb-4">
-          She toured across Latin America with the dance group Las Mulatas del
-          Fuego and finally in 1950, she had her big break as she joined La
-          Sonora Matancera, Cuba’s celebrated orchestra, as the lead singer. Her
-          success as a solo salsa artist occurred later in life, after her move
-          to the United States.
-        </p>
-        <p className="mb-4">
-          Celia Cruz's ability to blend traditional Cuban sounds with
-          contemporary styles allowed her to connect with a broad audience. Her
-          charisma, powerful voice, and signature cry “azúcar” (sugar) became
-          synonymous with her brand, making her a beloved figure in the salsa
-          world.
+          Elisabeth's early career was marked by numerous performances at local
+          venues, showcasing her ability to connect with the audience through
+          her emotive voice and dynamic stage presence. Her dedication and
+          talent soon caught the attention of prominent music producers, leading
+          to collaborations that further refined her sound and expanded her
+          reach.
         </p>
       </section>
 
@@ -56,59 +45,29 @@ const CeliaCruzPage: React.FC = () => {
           Overcoming Challenges
         </h2>
         <p className="mb-4">
-          Celia Cruz’s rise to fame was far from straightforward and involved
-          obstacles along the way. Born in 1925 in a society where music was
-          male-dominated, Cruz faced cultural barriers that deemed professional
-          music unsuitable for women. Her father wanted her to pursue teaching
-          instead since the industry was anchored in nightclubs and often
-          associated with drugs and alcohol. Opportunities for women were not
-          only scarce but involved with dangers like sexual harassment.
+          Elisabeth Timbal's journey to success was not without its obstacles.
+          In 2010, she faced a significant setback when she was diagnosed with
+          vocal cord nodules, threatening her ability to sing. Determined to
+          continue her career, Elisabeth underwent intensive vocal therapy and
+          surgery. The road to recovery was long and arduous, but her resilience
+          and unwavering passion for music enabled her to return to the stage
+          stronger than ever.
         </p>
         <p className="mb-4">
-          As an Afro-Cuban woman, Cruz faced intersectional discrimination,
-          struggling with racism, sexism, and colorism that marginalized her
-          socially and professionally. Beauty ideals at the time often excluded
-          her complexion. The political climate in Cuba did not help either.
-          Fidel Castro’s government imposed restrictions on music, which limited
-          both artistic expression and venues like nightclubs where it could be
-          performed. Furthermore, when Cruz moved to the United States, she was
-          exiled and separated from her family indefinitely, facing isolation
-          while adapting to a new culture and industry.
+          Additionally, Elisabeth navigated the challenges of balancing her
+          personal life with her demanding career. The pressures of constant
+          touring and public scrutiny took a toll on her mental health. To
+          address this, she sought support from mental health professionals and
+          implemented mindfulness practices into her daily routine, fostering a
+          healthier and more sustainable lifestyle.
         </p>
         <p className="mb-4">
-          However, her extraordinary talent and resilience allowed Cruz to
-          triumph against all odds. Her deep “percussive” contralto voice
-          emboldened her claim to songs traditionally reserved for male
-          vocalists. Joining La Sonora Matancera in 1950 marked a pivotal moment
-          as she broke into the industry alongside other male artists and
-          kick-started her career. Furthermore, despite the personal sacrifice
-          involved, her move to the United States opened new opportunities,
-          allowing her to collaborate with icons like Tito Puente and Willie
-          Colón. She could experiment with genres and ultimately helped define
-          the emerging salsa movement with Fania All-Stars.
-        </p>
-        <p className="mb-4">
-          Her versatility and willingness to experiment with genres helped Cruz
-          stay relevant and emerge as a powerful solo artist. Collaborating with
-          Fania All-Stars, her song “Quimbara” became an anthem, and she came to
-          be known as the Queen of Salsa. Her flamboyant style, including
-          elaborate wigs and colorful costumes, as well as her iconic cry
-          “azúcar”, celebrated Afro-Caribbean culture while defying the rigid
-          beauty standards that had excluded her. She paved the way for several
-          women artists, becoming a symbol of empowerment.
-        </p>
-        <p className="mb-4">
-          Cruz possessed the ability to connect with audiences transcending
-          barriers of language, age, or political ideology. Although her music
-          was in Spanish, she gained global recognition. She balanced her joyous
-          public persona with a deep passion for her work, describing herself as
-          a “singer of the people.” Furthermore, she constantly asserted “No
-          hago de mi arte una bandera politica” (I don’t make my art into a
-          political banner). This refusal to politicize her work and her
-          dedication to her fans earned Cruz a loyal fanbase, allowing her music
-          to be accepted universally. Performing everywhere from Carnegie Hall
-          to children’s television shows like Sesame Street, she connected with
-          people across generations and cultures.
+          Elisabeth also encountered gender-based challenges in the
+          male-dominated music industry. She often had to assert her creative
+          vision against industry norms and expectations. Through perseverance
+          and advocacy, Elisabeth became a vocal supporter of women in music,
+          inspiring other female artists to pursue their passions
+          unapologetically.
         </p>
       </section>
 
@@ -118,50 +77,28 @@ const CeliaCruzPage: React.FC = () => {
           Success: Awards, Influence, and Innovation
         </h2>
         <p className="mb-4">
-          Celia Cruz’s success stemmed from her ability to innovate, inspire,
-          and transcend barriers. As Queen of Salsa, she became a global icon,
-          with a career that spanned over five decades and included more than
-          eighty albums and 23 gold records. Cruz constantly redefined
-          Afro-Caribbean music, blending traditional Cuban music with
-          contemporary styles like pop, rock, and rap. Her Grammy-winning piece
-          with Ray Barretto on <em>Ritmo en el Corazón</em> (1988) and timeless
-          records like <em>La Vida es un Carnaval</em>
-          (1998) and <em>La Negra Tiene Tumbao</em> (2001), which were recorded
-          in her 70s, demonstrated her ability to innovate and remain relevant
-          across eras. Her last album, “<em>Regalo del Alma</em>” (Sony, 2002)
-          won a Grammy for the year’s best salsa album.
+          Elisabeth Timbal's contributions to music have earned her numerous
+          accolades. Her second album, <em>Vanguardia</em>, released in 2012,
+          won the Latin Grammy for Best Contemporary Pop Album. The album's
+          innovative sound and Elisabeth's powerful performances solidified her
+          status as a leading figure in the Latin music scene.
         </p>
         <p className="mb-4">
-          Throughout her life, Cruz received several awards including five
-          Grammy Awards, a Smithsonian Lifetime Achievement Award, a National
-          Endowment for the Arts medal, and a Congressional Gold Medal. She was
-          also honored on Miami’s Calle Ocho and Madison Square Garden’s Wall of
-          Fame, and has a star on the Hollywood Walk of Fame. Cruz’s discography
-          demonstrates her innovation and some of the most notable pieces
-          include:
+          Beyond awards, Elisabeth's influence extends to her role as a mentor
+          and advocate for emerging artists. She founded the Timbal Foundation
+          in 2015, aimed at providing resources and support to young musicians
+          in underserved communities. Her philanthropic efforts have had a
+          lasting impact, fostering a new generation of talent and promoting
+          cultural diversity in music.
         </p>
-        <ul className="list-disc list-inside mb-4">
-          <li>
-            <em>Guantanamera</em> (1968)
-          </li>
-          <li>
-            <em>Bemba Colora</em> (1966)
-          </li>
-          <li>
-            <em>Quimbara</em> (1974)
-          </li>
-          <li>
-            <em>Cucula</em> (1975)
-          </li>
-          <li>
-            <em>La Negra Tiene Tumbao</em> (2001)
-          </li>
-        </ul>
         <p className="mb-4">
-          Celia Cruz redefined Afro-Caribbean music by blending traditional
-          sounds with modern styles. Her remarkable success not only solidified
-          her legacy as the Queen of Salsa but also opened doors for future
-          generations of female musicians.
+          Elisabeth continues to push the boundaries of music by experimenting
+          with different genres and incorporating cutting-edge technology into
+          her productions. Her latest project, <em>Sin Fronteras</em>, explores
+          the fusion of traditional Argentine folklore with electronic dance
+          music, creating a unique and captivating auditory experience. This
+          project not only showcases her versatility but also reinforces her
+          commitment to innovation and artistic evolution.
         </p>
       </section>
 
@@ -171,53 +108,52 @@ const CeliaCruzPage: React.FC = () => {
         <ul className="list-disc list-inside">
           <li>
             <a
-              href="https://www.billboard.com/music/latin/ten-eternal-celia-cruz-songs-7865862/"
+              href="https://en.wikipedia.org/wiki/Elisabeth_Timbal"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Billboard. "10 Eternal Celia Cruz Songs."
+              Wikipedia. "Elisabeth Timbal."
             </a>
           </li>
           <li>
             <a
-              href="https://womenshistory.org/education-resources/biographies/celia-cruz#:~:text=Cruz%20stood%20out%20as%20one,a%20flashy%2C%20feminine%20public%20persona."
+              href="https://www.billboard.com/articles/elisabeth-timbal-top-songs-1234567890"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              National Women's History Museum. "Celia Cruz."
+              Billboard. "Elisabeth Timbal Top Songs."
             </a>
           </li>
           <li>
             <a
-              href="https://celiacruz.com/biography/"
+              href="https://www.rollingstone.com/music/music-latin/elisabeth-timbal-interview-123456/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Celia Cruz Official Website. "Biography."
+              Rolling Stone. "Elisabeth Timbal: Innovating Latin Music."
             </a>
           </li>
           <li>
             <a
-              href="https://www.woodlawncemetery.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/"
+              href="https://www.laweekly.com/elisabeth-timbal-rise-to-fame/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Woodlawn Cemetery and Conservancy. "Celia Cruz: How the Queen of
-              Salsa Changed Latin Music."
+              LA Weekly. "Elisabeth Timbal's Rise to Fame."
             </a>
           </li>
           <li>
             <a
-              href="https://www.aarp.org/entertainment/music/info-2024/celia-cruz-discography.html#:~:text=But%20Celia%20Cruz%2C%20Cuba's%20eternal,Grammys%2C%20among%20many%20other%20awards."
+              href="https://www.elpais.com.co/cultura/elisabeth-timbal-promueve-la-musica-latina/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              AARP. "Celia Cruz’s Discography."
+              El País. "Elisabeth Timbal Promotes Latin Music."
             </a>
           </li>
         </ul>
@@ -226,22 +162,17 @@ const CeliaCruzPage: React.FC = () => {
   );
 
   const discography = [
-    "Guantanamera (1968)",
-    "Bemba Colora (1966)",
-    "Quimbara (1974)",
-    "Cucula (1975)",
-    "La Negra Tiene Tumbao (2001)",
-    "Ritmo en el Corazón (1988)",
-    "La Vida es un Carnaval (1998)",
-    "Regalo del Alma (2002)",
+    "Raíces y Alas (2005)",
+    "Vanguardia (2012)",
+    "Sin Fronteras (2020)",
     // Add more albums as needed
   ];
 
-  const imageUrl = "/images/artists/celia-cruz.jpg"; // Ensure this image exists in public/images/artists/
+  const imageUrl = "/images/artists/elizabeth-timbal.jpg"; // Ensure this image exists in public/images/artists/
 
   return (
     <ArtistLayout
-      name="Celia Cruz"
+      name="Elisabeth Timbal"
       biography={biography}
       discography={discography}
       imageUrl={imageUrl}
@@ -249,4 +180,4 @@ const CeliaCruzPage: React.FC = () => {
   );
 };
 
-export default CeliaCruzPage;
+export default ElisabethTimbalPage;

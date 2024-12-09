@@ -12,32 +12,31 @@ const YolandaRiveraPage: React.FC = () => {
           Origins, Musical Inspirations, and Early Career
         </h2>
         <p className="mb-4">
-          La India was born in 1969 as Linda Viera Cabellero in Rio Piedra,
-          Puerto Rico. As an infant, she moved to the South Bronx in New York,
-          where she was immersed in a vibrant cultural and musical environment.
-          Surrounded by a family with strong musical backgrounds, India received
-          early training from a very young age. Her cultural environment,
-          especially the New York scene, played a significant role in shaping
-          her musical career. India was exposed to diverse genres, including
-          traditional salsa, contemporary pop, rock influences, and the house
-          music scene.
+          Yolanda Rivera was born in 1951 in Ponce, Puerto Rico, as the youngest
+          of eleven siblings. Growing up in a large family with a strong musical
+          background, Yolanda was immersed in music from an early age. Her
+          family utilized household items as instruments, fostering her innate
+          talent and passion for music. By the age of five, Yolanda was already
+          singing complete songs on key, a testament to her early vocal
+          development influenced by her mother and grandmother.
         </p>
         <p className="mb-4">
-          India's Puerto Rican heritage contributed to her multicultural
-          influence. Her grandmother, a prominent figure in India's life and her
-          primary musical mentor, was also a singer. It was her grandmother who
-          named her "India" to honor her indigenous Taino features, symbolizing
-          India's dark complexion and lengthy black hair. Similarly, India's
-          mother played a significant role in her early vocal development.
-          Combined, India's early exposure to diverse musical styles allowed her
-          to sing complete songs on key by the age of five.
+          Yolanda's grandmother, a prominent singer, played a significant role
+          in her musical upbringing, naming her "La India" to honor her
+          indigenous Taino features. This name symbolized her dark complexion
+          and lengthy black hair, reflecting her cultural heritage. Her musical
+          inspirations were diverse, ranging from traditional salsa and
+          contemporary pop to rock and house music. Influential artists such as
+          Celeste Mendoza, Los Van Van, Los Papines, Israel “Cachao” López,
+          Ismael Rivera, Chamaco Rivera, and Pete “El Conde” Rodríguez shaped
+          her musical style.
         </p>
         <p className="mb-4">
-          During the early days of her career, India began her professional
+          During the early days of her career, Yolanda began her professional
           journey in the house music genre in the late 1980s. At 16, she joined
           TKA, collaborating with notable figures such as Jellybean Benitez and
           Little Louie Vega. This early success in the house music genre set the
-          stage for her future endeavors. However, India faced significant
+          stage for her future endeavors. However, Yolanda faced significant
           challenges due to pressure from the industry, particularly regarding
           her cultural and ethnic identity.
         </p>
@@ -46,31 +45,32 @@ const YolandaRiveraPage: React.FC = () => {
           exclusion, being "conservative and univocal sexual politic." Female
           participation was effectively barred except for Celia Cruz, who
           represented an anomaly with limited opportunities. Female bands like
-          India's were dismissed as "commercial novelties," highlighting the
+          Yolanda's were dismissed as "commercial novelties," highlighting the
           industry's reluctance to embrace female artists in salsa. This
-          pressure to conform to mainstream market expectations subjected India
-          to racial and ethnic discrimination, as the industry pushed her to
-          adopt a stage name and maintain a traditional feminine image, limiting
-          her artistic expression and creative control.
+          pressure to conform to mainstream market expectations subjected
+          Yolanda to racial and ethnic discrimination, as the industry pushed
+          her to adopt a stage name and maintain a traditional feminine image,
+          limiting her artistic expression and creative control.
         </p>
         <p className="mb-4">
           Hector Lavoe's influential advice marked a critical turning point in
-          La India's musical career. He encouraged India to explore the salsa
+          Yolanda's musical career. He encouraged Yolanda to explore the salsa
           genre, provided cultural validation, and offered artistic direction.
           Lavoe's key advice, &ldquo;You're wasting your time in the American
           market. What you should really be doing is focusing on being here with
-          us,&rdquo; led to India's successful transition to salsa. Her debut
+          us,&rdquo; led to Yolanda's successful transition to salsa. Her debut
           salsa album,
           <em>Llegó La India via Eddie Palmieri</em>, incorporated Santería
           elements, asserting a strong statement of Latino pride. With Eddie
-          Palmieri as her mentor, India developed key industry connections,
+          Palmieri as her mentor, Yolanda developed key industry connections,
           resulting in a breakthrough collaboration with Tito Puente on the song
           "When the Night is Over," featuring salsa icons Marc Anthony and Tito
-          Puente. This collaboration marked the beginning of India's transition
-          to salsa in 1992, demonstrating effective cross-generational appeal.
+          Puente. This collaboration marked the beginning of Yolanda's
+          transition to salsa in 1992, demonstrating effective
+          cross-generational appeal.
         </p>
         <p className="mb-4">
-          Between 1994 and 1996, India experienced a breakthrough period with
+          Between 1994 and 1996, Yolanda experienced a breakthrough period with
           her album <em>Dicen Que Soy</em>, produced by Sergio George. This
           album blended traditional salsa with contemporary elements, creating a
           new sound template while maintaining cultural authenticity. The
@@ -81,7 +81,7 @@ const YolandaRiveraPage: React.FC = () => {
           weeks and serving as a feminist anthem in salsa.
         </p>
         <p className="mb-4">
-          India's performance innovations revolutionized stage presence in
+          Yolanda's performance innovations revolutionized stage presence in
           salsa. Her aggressive movements, theatrical confrontations, and
           powerful vocal delivery challenged traditional gender roles. Her
           visual presentation, combining feminine and masculine elements like
@@ -103,50 +103,50 @@ const YolandaRiveraPage: React.FC = () => {
           Yolanda Rivera's journey to becoming one of the most celebrated
           contemporary salseras in Peru was marked by several obstacles. Growing
           up in the El Porvenir neighborhood of La Victoria, Lima, she faced
-          financial hardships from a young age. At just eight years old, India
+          financial hardships from a young age. At just eight years old, Yolanda
           was juggling her musical education with a job to help support her
           family. Despite having a large family with six sisters, she lacked the
           consistent presence and support of her parents due to family
           conflicts. Instead, it was her grandfather, Mario Escurra, who
           encouraged her to study music. After he passed away when she was just
-          twelve years old, Darcourt dedicated herself to her musical career
-          with a strong personal resolve, fueled by the work ethic she had built
-          up over those early years. The money she earned supported both her
+          twelve years old, Yolanda dedicated herself to her musical career with
+          a strong personal resolve, fueled by the work ethic she had built up
+          over those early years. The money she earned supported both her
           education and her family.
         </p>
         <p className="mb-4">
-          Despite some success, India continued to face setbacks. Pressured into
-          auditioning by her family, she was selected for Son Tentación without
-          being very familiar with the group or the salsa genre. Joining the
-          orchestra required her to rebuild her musical identity. Additionally,
-          as a young woman entering a traditionally male-dominated genre, she
-          faced the challenge of proving herself in a competitive and often
-          unforgiving environment. After two successful years of hard work,
-          Darcourt made the bold decision to pursue a solo career, leaving
+          Despite some success, Yolanda continued to face setbacks. Pressured
+          into auditioning by her family, she was selected for Son Tentación
+          without being very familiar with the group or the salsa genre. Joining
+          the orchestra required her to rebuild her musical identity.
+          Additionally, as a young woman entering a traditionally male-dominated
+          genre, she faced the challenge of proving herself in a competitive and
+          often unforgiving environment. After two successful years of hard
+          work, Yolanda made the bold decision to pursue a solo career, leaving
           behind the safety of the group at significant financial and personal
           risk. Despite this challenge, she persevered, appearing in 2018 as
-          Daniela Darcourt and her orchestra at the salsa house and achieving
+          Yolanda Rivera and her orchestra at the salsa house and achieving
           success.
         </p>
         <p className="mb-4">
-          Later in her career, Darcourt faced several health complications. In
+          Later in her career, Yolanda faced several health complications. In
           2019, she was diagnosed with a vocal cord polyp and chronic
           laryngitis, threatening her singing career. She was forced to take a
           hiatus and undergo treatment and rehabilitation to preserve her voice.
           Additionally, throughout her career, she struggled with alcohol and
           drugs, fighting hard to overcome addiction. She remained dedicated to
           self-improvement, often mentioning that her art saved her life. After
-          treatment, Darcourt successfully recovered and returned to the stage.
+          treatment, Yolanda successfully recovered and returned to the stage.
         </p>
         <p className="mb-4">
           The COVID-19 pandemic posed another set of challenges as live
           performances and traditional avenues of income were closed off.
-          Despite the global crisis, Darcourt adapted with resilience, employing
+          Despite the global crisis, Yolanda adapted with resilience, employing
           digital media to stay connected with her audience. She conducted
           virtual concerts and released collaborative projects like "Volver,"
           which supported the revitalization of tourism in Peru. During this era
           of digital media, several traditional barriers in the industry for
-          women disappeared, allowing Darcourt to gain a loyal, global fanbase.
+          women disappeared, allowing Yolanda to gain a loyal, global fanbase.
           Over her career, she continued to collaborate with renowned salsa
           artists like La India, Tito Nieves, and N’Klabe, emerging as one of
           the most prominent names in salsa today.

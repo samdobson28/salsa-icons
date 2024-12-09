@@ -26,11 +26,11 @@ const LaIndiaPage: React.FC = () => {
           India's Puerto Rican heritage contributed to her multicultural
           influence. Her grandmother, a prominent figure in India's life and her
           primary musical mentor, was also a singer. It was her grandmother who
-          named her "India" to honor her indigenous Taino features, symbolizing
-          India's dark complexion and lengthy black hair. Similarly, India's
-          mother played a significant role in her early vocal development.
-          Combined, India's early exposure to diverse musical styles allowed her
-          to sing complete songs on key by the age of five.
+          named her &ldquo;India&rdquo; to honor her indigenous Taino features,
+          symbolizing India's dark complexion and lengthy black hair. Similarly,
+          India's mother played a significant role in her early vocal
+          development. Combined, India's early exposure to diverse musical
+          styles allowed her to sing complete songs on key by the age of five.
         </p>
         <p className="mb-4">
           During the early days of her career, India began her professional
@@ -43,41 +43,43 @@ const LaIndiaPage: React.FC = () => {
         </p>
         <p className="mb-4">
           Pre-1992, the salsa industry was characterized by systematic
-          exclusion, being "conservative and univocal sexual politic." Female
-          participation was effectively barred except for Celia Cruz, who
-          represented an anomaly with limited opportunities. Female bands like
-          India's were dismissed as "commercial novelties," highlighting the
-          industry's reluctance to embrace female artists in salsa. This
-          pressure to conform to mainstream market expectations subjected India
-          to racial and ethnic discrimination, as the industry pushed her to
-          adopt a stage name and maintain a traditional feminine image, limiting
-          her artistic expression and creative control.
+          exclusion, being &ldquo;conservative and univocal sexual
+          politic.&rdquo; Female participation was effectively barred except for
+          Celia Cruz, who represented an anomaly with limited opportunities.
+          Female bands like India's were dismissed as &ldquo;commercial
+          novelties,&rdquo; highlighting the industry's reluctance to embrace
+          female artists in salsa. This pressure to conform to mainstream market
+          expectations subjected India to racial and ethnic discrimination, as
+          the industry pushed her to adopt a stage name and maintain a
+          traditional feminine image, limiting her artistic expression and
+          creative control.
         </p>
         <p className="mb-4">
           Hector Lavoe's influential advice marked a critical turning point in
           La India's musical career. He encouraged India to explore the salsa
           genre, provided cultural validation, and offered artistic direction.
-          Lavoe's key advice, "You're wasting your time in the American market.
-          What you should really be doing is focusing on being here with us,"
-          led to India's successful transition to salsa. Her debut salsa album,
-          "Llegó La India via Eddie Palmieri," incorporated Santería elements,
-          asserting a strong statement of Latino pride. With Eddie Palmieri as
-          her mentor, India developed key industry connections, resulting in a
-          breakthrough collaboration with Tito Puente on the song "When the
-          Night is Over," featuring salsa icons Marc Anthony and Tito Puente.
-          This collaboration marked the beginning of India's transition to salsa
-          in 1992, demonstrating effective cross-generational appeal.
+          Lavoe's key advice, &ldquo;You're wasting your time in the American
+          market. What you should really be doing is focusing on being here with
+          us,&rdquo; led to India's successful transition to salsa. Her debut
+          salsa album,
+          <em>Llegó La India via Eddie Palmieri</em>, incorporated Santería
+          elements, asserting a strong statement of Latino pride. With Eddie
+          Palmieri as her mentor, India developed key industry connections,
+          resulting in a breakthrough collaboration with Tito Puente on the song
+          "When the Night is Over," featuring salsa icons Marc Anthony and Tito
+          Puente. This collaboration marked the beginning of India's transition
+          to salsa in 1992, demonstrating effective cross-generational appeal.
         </p>
         <p className="mb-4">
           Between 1994 and 1996, India experienced a breakthrough period with
-          her album "Dicen Que Soy," produced by Sergio George. This album
-          blended traditional salsa with contemporary elements, creating a new
-          sound template while maintaining cultural authenticity. The lyrical
-          content challenged machismo culture, with songs of female empowerment
-          developing personal narratives and themes of cultural pride. Notably,
-          her cover of Rocío Jurado's "Ese Hombre" became a salsa anthem,
-          ranking first on Billboard's Tropical Airplay for five weeks and
-          serving as a feminist anthem in salsa.
+          her album <em>Dicen Que Soy</em>, produced by Sergio George. This
+          album blended traditional salsa with contemporary elements, creating a
+          new sound template while maintaining cultural authenticity. The
+          lyrical content challenged machismo culture, with songs of female
+          empowerment developing personal narratives and themes of cultural
+          pride. Notably, her cover of Rocío Jurado's &ldquo;Ese Hombre&rdquo;
+          became a salsa anthem, ranking first on Billboard's Tropical Airplay
+          for five weeks and serving as a feminist anthem in salsa.
         </p>
         <p className="mb-4">
           India's performance innovations revolutionized stage presence in
@@ -142,13 +144,13 @@ const LaIndiaPage: React.FC = () => {
           performances and traditional avenues of income were closed off.
           Despite the global crisis, Darcourt adapted with resilience, employing
           digital media to stay connected with her audience. She conducted
-          virtual concerts and released collaborative projects like "Volver,"
-          which supported the revitalization of tourism in Peru. During this era
-          of digital media, several traditional barriers in the industry for
-          women disappeared, allowing Darcourt to gain a loyal, global fanbase.
-          Over her career, she continued to collaborate with renowned salsa
-          artists like La India, Tito Nieves, and N’Klabe, emerging as one of
-          the most prominent names in salsa today.
+          virtual concerts and released collaborative projects like
+          &ldquo;Volver,&rdquo; which supported the revitalization of tourism in
+          Peru. During this era of digital media, several traditional barriers
+          in the industry for women disappeared, allowing Darcourt to gain a
+          loyal, global fanbase. Over her career, she continued to collaborate
+          with renowned salsa artists like La India, Tito Nieves, and N’Klabe,
+          emerging as one of the most prominent names in salsa today.
         </p>
       </section>
 
@@ -174,11 +176,11 @@ const LaIndiaPage: React.FC = () => {
           the Lights Awards in 2019. In 2020, during the pandemic, she also
           received Best Female Artist and Most Active Artist on Social Media at
           the Radiomar Awards, demonstrating her strong connection with her
-          fans. More recently, she has won Concert of the Year ("The Reunion")
-          and Album of the Year ("Starting Over") in 2021 and 2022. In 2023, she
-          received her first Latin Grammy nomination for Best Salsa Album for{" "}
-          <em>Catharsis</em>, establishing her as a strong force in the global
-          salsa scene.
+          fans. More recently, she has won Concert of the Year (&ldquo;The
+          Reunion&rdquo;) and Album of the Year (&ldquo;Starting Over&rdquo;) in
+          2021 and 2022. In 2023, she received her first Latin Grammy nomination
+          for Best Salsa Album for <em>Catharsis</em>, establishing her as a
+          strong force in the global salsa scene.
         </p>
         <p className="mb-4">Some of her most notable works include:</p>
         <ul className="list-disc list-inside mb-4">
@@ -282,14 +284,16 @@ const LaIndiaPage: React.FC = () => {
   );
 
   const discography = [
+    "Explorando (1978)",
+    "Energized (1979)",
+    "La Ceiba (with Celia Cruz, 1979)",
+    "Unchained Force (1980)",
+    "Night Raider (1981)",
+    "Sabor a Pueblo (1976)",
+    "La Hija de Guaguancó (2013)",
     "Dicen Que Soy (1994)",
     "Esa Soy Yo (2019)",
     "Catharsis (2023)",
-    "Señor Mentira (2019)",
-    "Adiós Amor (2018)",
-    "Con Mi Amiga (2019)",
-    "Ese Estúpido (2018)",
-    "Probablemente (2018)",
     // Add more albums as needed
   ];
 
