@@ -5,7 +5,7 @@ import Image from "next/image";
 
 interface ArtistLayoutProps {
   name: string;
-  biography: string;
+  biography: React.ReactNode; // Changed from string to React.ReactNode
   discography: string[];
   imageUrl: string; // Path to the artist's image
 }
@@ -30,16 +30,8 @@ const ArtistLayout: React.FC<ArtistLayoutProps> = ({
             className="rounded-md shadow-md"
           />
         </div>
-        {/* Biography */}
-        <div className="bg-white shadow-md rounded-lg p-6">
-          <h2 className="text-3xl font-semibold text-salsa mb-3">Biography</h2>
-          <p className="text-lg text-gray-700">{biography}</p>
-        </div>
-      </section>
-
-      <section>
         {/* Discography */}
-        <div className="bg-white shadow-md rounded-lg p-6">
+        <div className="bg-white shadow-md rounded-lg p-6 mb-6">
           <h2 className="text-3xl font-semibold text-salsa mb-3">
             Discography
           </h2>
@@ -48,6 +40,11 @@ const ArtistLayout: React.FC<ArtistLayoutProps> = ({
               <li key={index}>{album}</li>
             ))}
           </ul>
+        </div>
+        {/* Biography */}
+        <div className="bg-white shadow-md rounded-lg p-6">
+          <h2 className="text-3xl font-semibold text-salsa mb-3">Biography</h2>
+          <div className="text-lg text-gray-700">{biography}</div>
         </div>
       </section>
     </div>
