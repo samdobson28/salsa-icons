@@ -16,23 +16,6 @@ const Home: React.FC = () => {
       </section>
 
       <section className="mb-12">
-        <h2 className="text-3xl font-semibold text-salsa mb-6">Album Covers</h2>
-        <div className="overflow-x-auto">
-          <div className="flex space-x-6">
-            {/* Placeholder Album Covers */}
-            {[1, 2, 3, 4, 5].map((item) => (
-              <div
-                key={item}
-                className="flex-shrink-0 w-48 h-48 bg-accent-light rounded-md shadow-md flex items-center justify-center text-white text-lg font-semibold"
-              >
-                Album {item}
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="mb-12">
         <h2 className="text-4xl font-semibold text-salsa mb-6">
           Women in Salsa
         </h2>
