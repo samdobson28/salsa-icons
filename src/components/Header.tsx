@@ -1,4 +1,3 @@
-// src/components/Header.tsx
 "use client";
 
 import Link from "next/link";
@@ -41,11 +40,8 @@ const Header: React.FC = () => {
           Salsa Icons
         </Link>
         <div className="flex items-center space-x-6 relative">
-          <Link
-            href="/summary"
-            className="font-medium hover:text-accent-dark transition-colors duration-300"
-          >
-            Summary
+          <Link href="/quiz" className="text-2xl font-bold text-accent">
+            Quiz
           </Link>
           <div className="relative" ref={dropdownRef}>
             <button
