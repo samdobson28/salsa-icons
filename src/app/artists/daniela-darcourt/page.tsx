@@ -169,7 +169,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Viberate. "Daniela Darcourt Top Songs."
+              Viberate. "Daniela Darcourt Top Songs." Viberate, Accessed 8 Dec. 2024
             </a>
           </li>
           <li>
@@ -179,8 +179,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              El Popular. "Daniela Darcourt: &ldquo;La música me salvó del
-              alcohol y las drogas&rdquo;."
+              El Popular. "Daniela Darcourt: 'La música me salvó del alcohol y las drogas'." El Popular, 5 Aug. 2018, Accessed 8 Dec. 2024
             </a>
           </li>
           <li>
@@ -190,8 +189,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Billboard. "New Salsa Music Artists You Need to Know: Luis
-              Figueroa, Christian Alicea & More."
+             Billboard. "New Salsa Music Artists You Need to Know: Luis Figueroa, Christian Alicea & More." Billboard, Accessed 8 Dec. 2024.
             </a>
           </li>
           <li>
@@ -201,7 +199,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Vinyl Me Please. "Daniela Darcourt on Vinyl."
+              Vinyl Me Please. "Daniela Darcourt on Vinyl." Vinyl Me, Please, Accessed 8 Dec. 2024.
             </a>
           </li>
           <li>
@@ -211,7 +209,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Wikipedia. "Daniela Darcourt."
+              Wikipedia. "Daniela Darcourt." Wikipedia, Accessed 8 Dec. 2024.
             </a>
           </li>
           <li>
@@ -221,7 +219,7 @@ const DanielaDarcourtPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              YouTube Fandom. "Daniela Darcourt."
+              YouTube Fandom. "Daniela Darcourt." YouTube Wiki, Accessed 8 Dec. 2024.
             </a>
           </li>
         </ul>
