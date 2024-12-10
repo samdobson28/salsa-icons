@@ -25,7 +25,7 @@ const ArtistLayout: React.FC<ArtistLayoutProps> = ({
           <Image
             src={imageUrl}
             alt={`${name} Image`}
-            width={400}
+            width={800}
             height={400}
             className="rounded-md shadow-md"
           />
