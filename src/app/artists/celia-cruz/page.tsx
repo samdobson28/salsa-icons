@@ -53,6 +53,64 @@ La Negra Tiene Tumbao (2001)
 Celia Cruz redefined Afro-Caribbean music by blending traditional sounds with modern styles. Her remarkable success not only solidified her legacy as the Queen of Salsa but also opened doors for future generations of female musicians.`}
         </p>
       </section>
+
+      {/* Sources Section */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold text-salsa mb-2">Sources</h2>
+        <ul className="list-disc list-inside">
+          <li>
+            <a
+              href="http://www.billboard.com/music/latin/ten-eternal-celia-cruz-songs-7865862/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Billboard. "10 Eternal Celia Cruz Songs." Billboard, Accessed 8 Dec. 2024.."
+            </a>
+          </li>
+          <li>
+            <a
+              href="http://www.womenshistory.org/education-resources/biographies/celia-cruz#:~:text=Cruz%20stood%20out%20as%20one,a%20flashy%2C%20feminine%20public%20persona"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+             National Women's History Museum. "Celia Cruz." Women’s History, Accessed 8 Dec. 2024."
+            </a>
+          </li>
+          <li>
+            <a
+              href="celiacruz.com/biography/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Celia Cruz Official Website. "Biography." Celia Cruz, Accessed 8 Dec. 2024."
+            </a>
+          </li>
+          <li>
+            <a
+              href="http://www.woodlawn.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Woodlawn Cemetery and Conservancy. "Celia Cruz: How the Queen of Salsa Changed Latin Music." Accessed 8 Dec. 2024.
+"
+            </a>
+          </li>
+          <li>
+            <a
+              href="http://www.aarp.org/entertainment/music/info-2024/celia-cruz-discography.html#:~:text=But%20Celia%20Cruz%2C%20Cuba's%20eternal,Grammys%2C%20among%20many%20other%20awards"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              AARP. "Celia Cruz’s Discography." AARP, Accessed 8 Dec. 2024."
+            </a>
+          </li>
+        </ul>
+      </section>
     </div>
   );
 
