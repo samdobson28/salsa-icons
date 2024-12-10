@@ -163,6 +163,72 @@ Establishing herself as one of the greatest artists of all time, Estefan has als
 Throughout her career, Estefan has also received several other honors and awards.`}
         </p>
       </section>
+       {/* Sources Section */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold text-salsa mb-2">Sources</h2>
+        <ul className="list-disc list-inside">
+          <li>
+            <a
+              href="https://826digital.com/resources/write-with-life-stories-singing-through-struggles-with-gloria-estefan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+               826Digital. “Life Stories: Singing Through Struggles with Gloria Estefan”, 826Digital, Accessed 1 Dec. 2024."
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/watch?v=GQYwqAQRjf8"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              CNN. “Gloria Estefan explains what it would take for her to return to Cuba”, CNN, Accessed 1 Dec. 2024"
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.cbsnews.com/news/gloria-estefan-life-career-meeting-her-husband-emilio-estefan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              CBS News. Accessed 1 Dec. 2024."
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://chief.com/articles/gloria-estefan-proud-latina-hispanic-heritage-month/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Chief. “Gloria Estefan on Breaking Barriers, Authenticity, and the Motivating Power of 'No'.Accessed Dec 1. 2024"
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://es.wikipedia.org/wiki/Gloria_Estefan"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Wikipedia. “Gloria Estefan”. Wikipedia, Accessed 1 Dec. 2024."
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.thejustice.org/article/2023/12/gloria-estefan-the-epitome-of-strength-and-unity"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              The Justice. “Gloria Estefan: The epitome of strength and unity”. Accessed Dec 1. 2024."
+            </a>
+          </li>
+        </ul>
+      </section>
     </div>
   );
 
