@@ -222,7 +222,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              National Park Service. "La India: The Princess of Salsa."
+              Hurtado, Melissa. “La India: The Princess of Salsa.” NPS, U.S. Department of the Interior. Accessed 9 Dec. 2024. "
             </a>
           </li>
           <li>
@@ -232,8 +232,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Billboard. "La India Receives Salsa Music Pioneer Award at Latin
-              Women in Music."
+              Flores, Griselda. “How La India Revolutionized Salsa Music & ‘Never Looked Back.’” Billboard, Accessed 7 Dec 2024,."
             </a>
           </li>
           <li>
@@ -243,7 +242,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              National Park Service. "Gender and Performance in Salsa."
+              “Gender Performance in Salsa.” NPS, U.S. Department of the Interior. Accessed 9 Dec. 2024."
             </a>
           </li>
           <li>
@@ -253,8 +252,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Temple University. "Gender Dynamics and Performance in Salsa
-              Music."
+              Temple University. "Gender Dynamics and Performance in Salsa Music."
             </a>
           </li>
           <li>
