@@ -296,6 +296,341 @@ const Home: React.FC = () => {
           salsa.
         </p>
       </section>
+
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold text-salsa mb-4">Bibliography</h2>
+
+        <h3 className="text-xl font-semibold text-salsa mb-2">Celia Cruz</h3>
+        <ul className="list-disc list-inside mb-4">
+          <li className="mb-2">
+            Billboard. "10 Eternal Celia Cruz Songs." <em>Billboard</em>,
+            <a
+              href="https://www.billboard.com/music/latin/ten-eternal-celia-cruz-songs-7865862/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.billboard.com/music/latin/ten-eternal-celia-cruz-songs-7865862/
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            National Women's History Museum. "Celia Cruz."{" "}
+            <em>Women’s History</em>,
+            <a
+              href="https://www.womenshistory.org/education-resources/biographies/celia-cruz#:~:text=Cruz%20stood%20out%20as%20one,a%20flashy%2C%20feminine%20public%20persona."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.womenshistory.org/education-resources/biographies/celia-cruz
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Celia Cruz Official Website. "Biography."
+            <a
+              href="https://celiacruz.com/biography/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              celiacruz.com/biography/
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Woodlawn Cemetery and Conservancy. "Celia Cruz: How the Queen of
+            Salsa Changed Latin Music."
+            <a
+              href="https://www.woodlawn.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.woodlawn.org/blog/celia-cruz-how-the-queen-of-salsa-changed-latin-music/
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            AARP. "Celia Cruz’s Discography." <em>AARP</em>,
+            <a
+              href="https://www.aarp.org/entertainment/music/info-2024/celia-cruz-discography.html#:~:text=But%20Celia%20Cruz%2C%20Cuba's%20eternal,Grammys%2C%20among%20many%20other%20awards"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.aarp.org/entertainment/music/info-2024/celia-cruz-discography.html
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+        </ul>
+
+        <h3 className="text-xl font-semibold text-salsa mb-2">
+          Daniela Darcourt
+        </h3>
+        <ul className="list-disc list-inside mb-4">
+          <li className="mb-2">
+            Viberate. "Daniela Darcourt Top Songs."
+            <a
+              href="https://www.viberate.com/artist/songs/daniela-darcourt-top-songs/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.viberate.com/artist/songs/daniela-darcourt-top-songs/
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            El Popular. "Daniela Darcourt: 'La música me salvó del alcohol y las
+            drogas'." <em>El Popular</em>, 5 Aug. 2018,
+            <a
+              href="www.elpopular.pe/espectaculos/2018-08-05-daniela-darcourt-musica-salvo-alcohol-drogas"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.elpopular.pe/espectaculos/2018-08-05-daniela-darcourt-musica-salvo-alcohol-drogas
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Billboard. "New Salsa Music Artists You Need to Know: Luis Figueroa,
+            Christian Alicea & More." <em>Billboard</em>,
+            <a
+              href="https://www.billboard.com/lists/new-salsa-music-artists-list-luis-figueroa-christian-alicea/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.billboard.com/lists/new-salsa-music-artists-list-luis-figueroa-christian-alicea/
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Vinyl Me Please. "Daniela Darcourt on Vinyl."{" "}
+            <em>Vinyl Me, Please</em>,
+            <a
+              href="https://www.vinylmeplease.com/blogs/artists/daniela-darcourt-vinyl"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.vinylmeplease.com/blogs/artists/daniela-darcourt-vinyl
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Wikipedia. "Daniela Darcourt."
+            <a
+              href="https://es.wikipedia.org/wiki/Daniela_Darcourt"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              es.wikipedia.org/wiki/Daniela_Darcourt
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            YouTube Fandom. "Daniela Darcourt."
+            <a
+              href="https://youtube.fandom.com/wiki/Daniela_Darcourt"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              youtube.fandom.com/wiki/Daniela_Darcourt
+            </a>
+            . Accessed 8 Dec. 2024.
+          </li>
+        </ul>
+
+        <h3 className="text-xl font-semibold text-salsa mb-2">
+          Gloria Estefan
+        </h3>
+        <ul className="list-disc list-inside mb-4">
+          <li className="mb-2">
+            826Digital. “Life Stories: Singing Through Struggles with Gloria
+            Estefan”,
+            <a
+              href="https://826digital.com/resources/write-with-life-stories-singing-through-struggles-with-gloria-estefan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              826digital.com
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            CNN. “Gloria Estefan explains what it would take for her to return
+            to Cuba”,
+            <a
+              href="https://www.youtube.com/watch?v=GQYwqAQRjf8"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              youtube.com
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            CBS News. “Gloria Estefan reflects on her hardships, career and the
+            day she'll 'never forget'.”
+            <a
+              href="https://www.cbsnews.com/news/gloria-estefan-life-career-meeting-her-husband-emilio-estefan/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              cbsnews.com
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Chief. “Gloria Estefan on Breaking Barriers, Authenticity, and the
+            Motivating Power of 'No'.”
+            <a
+              href="https://chief.com/articles/gloria-estefan-proud-latina-hispanic-heritage-month/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              chief.com
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            The Justice. “Gloria Estefan: The epitome of strength and unity”.
+            <a
+              href="https://www.thejustice.org/article/2023/12/gloria-estefan-the-epitome-of-strength-and-unity"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              thejustice.org
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Wikipedia. “Gloria Estefan”.
+            <a
+              href="https://en.wikipedia.org/wiki/Gloria_Estefan"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              en.wikipedia.org/wiki/Gloria_Estefan
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+        </ul>
+
+        <h3 className="text-xl font-semibold text-salsa mb-2">La India</h3>
+        <ul className="list-disc list-inside mb-4">
+          <li className="mb-2">
+            Flores, Griselda. “How La India Revolutionized Salsa Music & ‘Never
+            Looked Back.’”
+            <em>Billboard</em>,
+            <a
+              href="https://www.billboard.com/music/latin/la-india-salsa-music-pioneer-award-latin-women-in-music-1235699920/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.billboard.com/music/latin/la-india-salsa-music-pioneer-award-latin-women-in-music-1235699920/
+            </a>
+            .
+          </li>
+          <li className="mb-2">
+            Gainer, Natalie. “An Exploration of Dance through Identity,
+            Community, And ...”
+            <a
+              href="https://cedar.wwu.edu/cgi/viewcontent.cgi?article=2299&context=wwuet"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              cedar.wwu.edu/...
+            </a>
+            .
+          </li>
+          <li className="mb-2">
+            “Gender Performance in Salsa.” NPS,
+            <a
+              href="https://www.nps.gov/articles/000/gender-performance-in-salsa.htm"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.nps.gov/articles/000/gender-performance-in-salsa.htm
+            </a>
+            . Accessed 9 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Hurtado, Melissa. “La India: The Princess of Salsa.” NPS,
+            <a
+              href="https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm
+            </a>
+            . Accessed 9 Dec. 2024.
+          </li>
+        </ul>
+
+        <h3 className="text-xl font-semibold text-salsa mb-2">
+          Elisabeth Timbal
+        </h3>
+        <ul className="list-disc list-inside">
+          <li className="mb-2">
+            Ravazzoni, Sofia. “Elisabeth Timbal: The Percussionist Setting the
+            Beat of Tampa’s Music Scene.”
+            <em>TampaBeacon.com</em>, 9 Sept. 2024,
+            <a
+              href="https://www.tampabeacon.com/news/elisabeth-timbal-the-percussionist-setting-the-beat-of-tampas-music-scene/article_072fc7be-6ec5-11ef-9d70-13ea02b0c288.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.tampabeacon.com/news/elisabeth-timbal...
+            </a>
+            . Accessed 9 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Roiz, Jessica. “15 New Salsa Artists You Should Be Listening To:
+            Luis Figueroa & More.”
+            <em>Billboard</em>, 18 Oct. 2023,
+            <a
+              href="https://www.billboard.com/lists/new-salsa-music-artists-list-luis-figueroa-christian-alicea/elisabeth-timbal/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              www.billboard.com/lists/new-salsa-music-artists-list-luis-figueroa-christian-alicea/elisabeth-timbal/
+            </a>
+            . Accessed 9 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Timbal, Elisabeth. “Elisabeth Timbal.” <em>Elisabeth Timbal</em>,
+            2024,
+            <a
+              href="https://elisabethtimbal.com/home"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              elisabethtimbal.com/home
+            </a>
+            . Accessed 9 Dec. 2024.
+          </li>
+        </ul>
+      </section>
     </div>
   );
 };

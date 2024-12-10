@@ -4,7 +4,6 @@ import React from "react";
 import ArtistLayout from "../../../components/ArtistLayout";
 
 const GloriaEstefanPage: React.FC = () => {
-  // Updated discography can remain the same or be trimmed as needed
   const discography = [
     "Eyes of Innocence (1984)",
     "Let it Loose (1987)",
@@ -21,7 +20,6 @@ const GloriaEstefanPage: React.FC = () => {
     "90 Millas (2007)",
   ];
 
-  // Keep only the specified sections and text exactly as provided
   const biography = (
     <div className="text-gray-800 text-lg space-y-6">
       <section className="mb-6">
@@ -66,10 +64,89 @@ At the young age of 9, Estefan enrolled in her father’s cousin’s classical m
 Originally from Cuba, Estefan received the Ellis Island Medal of Honor, the highest honor that a naturalized US citizen can be bestowed with. In 2015, President Obama awarded Estefan and her husband, Emilio, with the Presidential Medal of Freedom for their contributions to American Music. In 2022, she was inducted into the Female Songwriters Hall of Fame. In 2023, she was welcomed into the Songwriters Hall of Fame, becoming the first Latina to do so.`}
         </p>
       </section>
+
+      {/* Sources Section */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold text-salsa mb-2">Sources</h2>
+        <section className="mb-6">
+          <ul className="list-disc list-inside">
+            <li>
+              <a
+                href="https://en.wikipedia.org/wiki/Gloria_Estefan"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://en.wikipedia.org/wiki/Gloria_Estefan
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://826digital.com/resources/write-with-life-stories-singing-through-struggles-with-gloria-estefan/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://826digital.com/resources/write-with-life-stories-singing-through-struggles-with-gloria-estefan/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.youtube.com/watch?v=GQYwqAQRjf8"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.youtube.com/watch?v=GQYwqAQRjf8
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://kbgo.iheart.com/featured/big-95-morning-show/content/2023-09-22-gloria-estefan-recalls-early-career-challenges/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://kbgo.iheart.com/featured/big-95-morning-show/content/2023-09-22-gloria-estefan-recalls-early-career-challenges/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.cbsnews.com/news/gloria-estefan-life-career-meeting-her-husband-emilio-estefan/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.cbsnews.com/news/gloria-estefan-life-career-meeting-her-husband-emilio-estefan/
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.thejustice.org/article/2023/12/gloria-estefan-the-epitome-of-strength-and-unity"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://www.thejustice.org/article/2023/12/gloria-estefan-the-epitome-of-strength-and-unity
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://chief.com/articles/gloria-estefan-proud-latina-hispanic-heritage-month/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:underline"
+              >
+                https://chief.com/articles/gloria-estefan-proud-latina-hispanic-heritage-month/
+              </a>
+            </li>
+          </ul>
+        </section>
+      </section>
     </div>
   );
 
-  const imageUrl = "/images/artists/gloria-estefan.jpg"; // Ensure this image exists in public/images/artists/
+  const imageUrl = "/images/artists/gloria-estefan.jpg";
 
   return (
     <ArtistLayout
