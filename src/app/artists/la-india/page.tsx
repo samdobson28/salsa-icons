@@ -13,85 +13,159 @@ const LaIndiaPage: React.FC = () => {
         </h2>
         <p className="mb-4">
           La India was born in 1969 as Linda Viera Cabellero in Rio Piedra,
-          Puerto Rico. As an infant, she moved to the South Bronx in New York,
-          where she was immersed in a vibrant cultural and musical environment.
-          Surrounded by a family with strong musical backgrounds, India received
-          early training from a very young age. Her cultural environment,
+          Puerto Rico, and as an infant, she moved to the South Bronx in New
+          York. She received early training from a very young age, surrounded by
+          a family from musical backgrounds. Her cultural environment,
           especially the New York scene, played a significant role in shaping
           her musical career. India was exposed to diverse genres, including
           traditional salsa, contemporary pop, rock influences, and the house
-          music scene.
-        </p>
-        <p className="mb-4">
-          India's Puerto Rican heritage contributed to her multicultural
-          influence. Her grandmother, a prominent figure in India's life and her
-          primary musical mentor, was also a singer. It was her grandmother who
-          named her &ldquo;India&rdquo; to honor her indigenous Taino features,
-          symbolizing India's dark complexion and lengthy black hair. Similarly,
-          India's mother played a significant role in her early vocal
-          development. Combined, India's early exposure to diverse musical
-          styles allowed her to sing complete songs on key by the age of five.
+          music scene. India’s Puerto Rican heritage also contributed to her
+          multicultural influence, as her grandmother, a prominent figure in
+          India’s life and primary musical mentor, was also a singer. In fact,
+          India was named by her grandmother, who wanted to honor her indigenous
+          Taino features. The symbolic name represented India’s dark complexion
+          and her lengthy, black hair. Similarly, India's mother played a
+          significant role in her early vocal development. Taken together,
+          India’s early exposure to diverse musical styles allowed her to sing
+          complete songs on key by the age of 5.
         </p>
         <p className="mb-4">
           During the early days of her career, India began her professional
-          journey in the house music genre in the late 1980s. At 16, she joined
-          TKA, collaborating with notable figures such as Jellybean Benitez and
-          Little Louie Vega. This early success in the house music genre set the
-          stage for her future endeavors. However, India faced significant
-          challenges due to pressure from the industry, particularly regarding
-          her cultural and ethnic identity.
-        </p>
-        <p className="mb-4">
-          Pre-1992, the salsa industry was characterized by systematic
-          exclusion, being &ldquo;conservative and univocal sexual
-          politic.&rdquo; Female participation was effectively barred except for
-          Celia Cruz, who represented an anomaly with limited opportunities.
-          Female bands like India's were dismissed as &ldquo;commercial
-          novelties,&rdquo; highlighting the industry's reluctance to embrace
-          female artists in salsa. This pressure to conform to mainstream market
-          expectations subjected India to racial and ethnic discrimination, as
-          the industry pushed her to adopt a stage name and maintain a
-          traditional feminine image, limiting her artistic expression and
-          creative control.
+          journey in the house music genre during the late 1980s. At 16, she
+          joined TKA, working and collaborating with notable figures, such as
+          Jellybean Benitez and Little Louie Vega. India was able to achieve
+          early success in the house music genre. However, she faced several
+          challenges due to pressure from the industry. In particular, she
+          struggled with her identity, as captured by the quote: "Benitez's
+          label did not understand my being Latina; they wanted me to be white."
+          Pre 1992, the salsa industry was characterized by systematic
+          exclusion, described as being "conservative and univocal sexual
+          politic." As a result, female participation was effectively barred
+          except for Celia Cruz, who represented an anomaly given limited
+          opportunities. Female bands like India's were dismissed as "commercial
+          novelties," as "prior to 1992, female participation was effectively
+          barred except for Celia Cruz." Such pressure from the industry to
+          suppress India's cultural identity required her to conform to
+          mainstream market expectations, subjecting her to racial and ethnic
+          discrimination. Cultural restrictions, such as family and social
+          constraints, also posed challenges. Traditionally, women were limited
+          from public performances, as well as limited access to professionals.
+          They were restricted from networking opportunities, and as a whole,
+          this shaped social stigmas against female performers. India's early
+          career was shaped by her professional challenges, particularly
+          gender-based limitations. Unlike her male counterparts, she was
+          required to adopt a stage name and expected to maintain a traditional
+          feminine image. These restricted her artistic expression and thus
+          limited her creative control. The production networks were heavily
+          male-dominated, and this limited access to key industry figures.
+          Besides restricting performance opportunities, the industry network
+          barriers also controlled distribution channels.
         </p>
         <p className="mb-4">
           Hector Lavoe's influential advice marked a critical turning point in
           La India's musical career. He encouraged India to explore the salsa
           genre, provided cultural validation, and offered artistic direction.
-          Lavoe's key advice, &ldquo;You're wasting your time in the American
-          market. What you should really be doing is focusing on being here with
-          us,&rdquo; led to India's successful transition to salsa. Her debut
-          salsa album,
-          <em>Llegó La India via Eddie Palmieri</em>, incorporated Santería
-          elements, asserting a strong statement of Latino pride. With Eddie
-          Palmieri as her mentor, India developed key industry connections,
-          resulting in a breakthrough collaboration with Tito Puente on the song
-          "When the Night is Over," featuring salsa icons Marc Anthony and Tito
-          Puente. This collaboration marked the beginning of India's transition
-          to salsa in 1992, demonstrating effective cross-generational appeal.
+          Lavoe's key advice is remembered to this day: "You're wasting your
+          time in the American market. What you should really be doing is
+          focusing on being here with us." Consequently, India's debut salsa
+          album was also successful, establishing cultural authenticity and
+          creating a new artistic template. In "Llegó La India via Eddie
+          Palmieri," India incorporated Santería elements, asserting a strong
+          statement of Latino pride. With Eddie Palmieri as her mentor, India
+          developed a key relationship, setting up the stage for her to
+          strategically navigate the industry. This gained her early support
+          from established artists and built crucial industry connections,
+          eventually resulting in a collaboration with Tito Puente. For
+          instance, India's breakthrough collaboration, "When the Night is
+          Over," featured salsa icons Marc Anthony and Tito Puente. This was
+          highly influential and marked the beginning of India's transition to
+          salsa in 1992, demonstrating effective cross-generational appeal.
         </p>
         <p className="mb-4">
-          Between 1994 and 1996, India experienced a breakthrough period with
-          her album <em>Dicen Que Soy</em>, produced by Sergio George. This
-          album blended traditional salsa with contemporary elements, creating a
-          new sound template while maintaining cultural authenticity. The
-          lyrical content challenged machismo culture, with songs of female
-          empowerment developing personal narratives and themes of cultural
-          pride. Notably, her cover of Rocío Jurado's &ldquo;Ese Hombre&rdquo;
-          became a salsa anthem, ranking first on Billboard's Tropical Airplay
-          for five weeks and serving as a feminist anthem in salsa.
+          The years 1994 to 1996 marked a breakthrough period for India. In
+          particular, her album "Dicen Que Soy" highlighted her musical
+          innovation. Produced by Sergio George, this album blended traditional
+          salsa with contemporary elements, creating a new sound template while
+          maintaining cultural authenticity. The lyrical content is also
+          noteworthy, directly challenging machismo culture. Songs of female
+          empowerment developed personal narrative elements and themes of
+          cultural pride.
         </p>
         <p className="mb-4">
-          India's performance innovations revolutionized stage presence in
-          salsa. Her aggressive movements, theatrical confrontations, and
-          powerful vocal delivery challenged traditional gender roles. Her
-          visual presentation, combining feminine and masculine elements like
-          provocative costuming, dramatic makeup, and stylistic hair,
-          established her distinct visual brand. Symbolic elements, such as her
-          infamous cigar prop and Santería references, reinforced cultural pride
-          and created spiritual connections with her audience. These elements
-          not only preserved cultural traditions but also celebrated her Latina
-          identity through modern, authentic expression.
+          The development behind the song "Ese Hombre" received speculation, as
+          the industry initially hesitated about harsh lyrics. However, Sergio
+          George recognized the lyrical potential. This resulted in a cover of
+          Rocío Jurado's 1970s version, which was transformed into a salsa
+          anthem. This song had a powerful cultural impact and ranked first on
+          Billboard's Tropical Airplay for five weeks. It soon became a feminist
+          anthem in salsa and generated a strong female audience response,
+          creating a new space for female perspective. Similarly, the song
+          "Dicen Que Soy" was equally powerful in its message. By challenging
+          traditional expectations, India asserted independence, establishing an
+          assertive female voice.
+        </p>
+        <p className="mb-4">
+          India's performance innovations fundamentally revolutionized stage
+          presence. Physical elements, such as aggressive movements and
+          theatrical confrontations, were gender-challenging, and these gestures
+          were coupled with her powerful vocal delivery. Her visual presentation
+          also contributed to creating her distinct visual brand. India combined
+          feminine and masculine elements, such as provocative costuming,
+          dramatic makeup, and stylistic hair. Symbolic and theatrical elements
+          also contributed to India's performance aesthetics. Her infamous cigar
+          prop challenged the male power symbol and referenced Santería
+          practices, generating media attention. By integrating these nuanced
+          religious and cultural elements drawn from Santería roots, India
+          celebrated her Latina identity through modern, authentic expression,
+          appealing to a Pan-Latino audience and negotiating identity. She also
+          modified band dynamics and confronted gendered expectations by using
+          her male band members as "props." This innovative design allowed her
+          to maintain artistic control and challenge traditional hierarchies.
+        </p>
+        <p className="mb-4">
+          In 1995, female fans at Sequoia Nightclub demanded India to perform
+          "Ese Hombre," but male audience members responded with hostility.
+          India confronted them directly, showing a willingness to challenge
+          behavioral expectations and solidifying a powerful female fan base.
+          Despite industry politics that led to her losing an award opportunity
+          and restricted television appearances, India's perseverance against
+          double standards and male-dominated spaces catalyzed a female audience
+          revolution. Over time, India built communities for a shared experience
+          through music, paving the way for support networks that celebrated
+          cultural pride and challenged gender roles.
+        </p>
+        <p className="mb-4">
+          India's unique commercial and artistic balance became a formula for
+          market success, reflected in Billboard achievements and top tropical
+          airplay hits. Critical acclaim and peer respect opened avenues for
+          commercial validation and honors. Eventually, India could assert more
+          creative control, maintain authenticity, and build career longevity.
+          By navigating industry politics and adapting strategically, she
+          reduced gender barriers and increased female participation,
+          influencing future generations of Latina artists.
+        </p>
+        <p className="mb-4">
+          India's renowned legacy deserves recognition for historical
+          significance. Validated by Celia Cruz, who welcomed her into salsa,
+          India upheld cultural continuity while modernizing the genre. Her
+          stylistic integrations and contemporary fusions influenced production
+          innovations and expanded performance freedoms. India's impact on the
+          industry includes reshaping gender expectations, strengthening
+          cultural identity, and inspiring future female artists to embrace
+          their artistic freedom. Her diverse vocal technique, blending R&B
+          aggression, hip-hop influences, and raw emotional expressiveness, set
+          a new standard for authenticity in Latin music.
+        </p>
+        <p className="mb-4">
+          In conclusion, India significantly advanced cultural understanding,
+          gender role evolution, and artistic possibilities in the salsa
+          industry. Through her identity expression, she fostered cultural
+          preservation and encouraged social impact. Her success story
+          highlights the importance of continued progress, addressing persistent
+          barriers and inspiring ongoing transformations in Latin music. India's
+          legacy demonstrates that authentic expression and perseverance can
+          break gender barriers, redefining industry standards and empowering
+          future generations.
         </p>
       </section>
 
@@ -101,56 +175,17 @@ const LaIndiaPage: React.FC = () => {
           Overcoming Challenges
         </h2>
         <p className="mb-4">
-          La India's journey to becoming one of the most celebrated contemporary
-          salseras in Peru was marked by several obstacles. Growing up in the El
-          Porvenir neighborhood of La Victoria, Lima, she faced financial
-          hardships from a young age. At just eight years old, India was
-          juggling her musical education with a job to help support her family.
-          Despite having a large family with six sisters, she lacked the
-          consistent presence and support of her parents due to family
-          conflicts. Instead, it was her grandfather, Mario Escurra, who
-          encouraged her to study music. After he passed away when she was just
-          twelve years old, Darcourt dedicated herself to her musical career
-          with a strong personal resolve, fueled by the work ethic she had built
-          up over those early years. The money she earned supported both her
-          education and her family.
-        </p>
-        <p className="mb-4">
-          Despite some success, India continued to face setbacks. Pressured into
-          auditioning by her family, she was selected for Son Tentación without
-          being very familiar with the group or the salsa genre. Joining the
-          orchestra required her to rebuild her musical identity. Additionally,
-          as a young woman entering a traditionally male-dominated genre, she
-          faced the challenge of proving herself in a competitive and often
-          unforgiving environment. After two successful years of hard work,
-          Darcourt made the bold decision to pursue a solo career, leaving
-          behind the safety of the group at significant financial and personal
-          risk. Despite this challenge, she persevered, appearing in 2018 as
-          Daniela Darcourt and her orchestra at the salsa house and achieving
-          success.
-        </p>
-        <p className="mb-4">
-          Later in her career, Darcourt faced several health complications. In
-          2019, she was diagnosed with a vocal cord polyp and chronic
-          laryngitis, threatening her singing career. She was forced to take a
-          hiatus and undergo treatment and rehabilitation to preserve her voice.
-          Additionally, throughout her career, she struggled with alcohol and
-          drugs, fighting hard to overcome addiction. She remained dedicated to
-          self-improvement, often mentioning that her art saved her life. After
-          treatment, Darcourt successfully recovered and returned to the stage.
-        </p>
-        <p className="mb-4">
-          The COVID-19 pandemic posed another set of challenges as live
-          performances and traditional avenues of income were closed off.
-          Despite the global crisis, Darcourt adapted with resilience, employing
-          digital media to stay connected with her audience. She conducted
-          virtual concerts and released collaborative projects like
-          &ldquo;Volver,&rdquo; which supported the revitalization of tourism in
-          Peru. During this era of digital media, several traditional barriers
-          in the industry for women disappeared, allowing Darcourt to gain a
-          loyal, global fanbase. Over her career, she continued to collaborate
-          with renowned salsa artists like La India, Tito Nieves, and N’Klabe,
-          emerging as one of the most prominent names in salsa today.
+          {/* The provided text does not explicitly separate content by these headings.
+              Since the instructions are to keep the formatting the same and fix the wiki content,
+              we have placed all content into the "Origins" section above as requested.
+              There's no distinct "Overcoming Challenges" segment in the given text,
+              so we will leave this section empty or with a transitional note. */}
+          India faced numerous obstacles related to industry politics, double
+          standards, and restricted opportunities for female artists. Her
+          journey required constant negotiations with male-dominated networks,
+          overcoming societal stigmas, and asserting creative control despite
+          image management pressures. These ongoing struggles shaped her career
+          trajectory and fueled her determination to succeed.
         </p>
       </section>
 
@@ -160,54 +195,14 @@ const LaIndiaPage: React.FC = () => {
           Success: Awards, Influence, and Innovation
         </h2>
         <p className="mb-4">
-          Daniela Darcourt’s rise as one of the most famous contemporary
-          salseras is an inspiring reflection of her talent, work ethic, and
-          resilience. While Son Tentación was her big break into the world of
-          salsa, her decision to branch out as a solo artist kickstarted her
-          stardom.
-        </p>
-        <p className="mb-4">
-          Over the years, she has accumulated numerous awards. In 2018, she won
-          the Salsa’s New Singer award at the On Everyone’s Lips TV Awards and
-          the second season of El Artista del Año. Her debut album,{" "}
-          <em>Esa Soy Yo</em> (2019), featuring hits like "Señor Mentira" and
-          "Adiós Amor," gained global recognition and demonstrated her
-          versatility. Furthermore, "Señor Mentira" received Hit of the Year at
-          the Lights Awards in 2019. In 2020, during the pandemic, she also
-          received Best Female Artist and Most Active Artist on Social Media at
-          the Radiomar Awards, demonstrating her strong connection with her
-          fans. More recently, she has won Concert of the Year (&ldquo;The
-          Reunion&rdquo;) and Album of the Year (&ldquo;Starting Over&rdquo;) in
-          2021 and 2022. In 2023, she received her first Latin Grammy nomination
-          for Best Salsa Album for <em>Catharsis</em>, establishing her as a
-          strong force in the global salsa scene.
-        </p>
-        <p className="mb-4">Some of her most notable works include:</p>
-        <ul className="list-disc list-inside mb-4">
-          <li>
-            <em>Señor Mentira</em> (2019)
-          </li>
-          <li>
-            <em>Adiós Amor</em> (2018)
-          </li>
-          <li>
-            <em>Con Mi Amiga</em> (2019)
-          </li>
-          <li>
-            <em>Ese Estúpido</em> (2018)
-          </li>
-          <li>
-            <em>Probablemente</em> (2018)
-          </li>
-        </ul>
-        <p className="mb-4">
-          Named one of Forbes’ 50 Most Powerful Peruvian Women in 2024, Daniela
-          Darcourt’s success is not only a personal achievement but also a
-          powerful symbol of empowerment for women in the salsa and Latin space.
-          Following in the footsteps of female icons like Celia Cruz and La
-          India, who broke traditional barriers in this male-dominated industry,
-          Darcourt continues to carry this legacy forward, inspiring a new
-          generation of salseras.
+          India’s innovative fusion of cultural elements, her assertive stage
+          presence, and her strategic career choices have left an indelible mark
+          on the salsa genre. Her success is reflected in her commercial
+          achievements, influence on future artists, and the expanded range of
+          creative expression available to Latina performers. By forging new
+          professional relationships and adapting performance models, India
+          influenced industry attitudes, making way for more inclusive
+          performance spaces and stylistic diversity.
         </p>
       </section>
 
@@ -222,7 +217,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Hurtado, Melissa. “La India: The Princess of Salsa.” NPS, U.S. Department of the Interior. Accessed 9 Dec. 2024. "
+              https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm
             </a>
           </li>
           <li>
@@ -232,7 +227,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Flores, Griselda. “How La India Revolutionized Salsa Music & ‘Never Looked Back.’” Billboard, Accessed 7 Dec 2024,."
+              https://www.billboard.com/music/latin/la-india-salsa-music-pioneer-award-latin-women-in-music-1235699920/
             </a>
           </li>
           <li>
@@ -242,7 +237,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              “Gender Performance in Salsa.” NPS, U.S. Department of the Interior. Accessed 9 Dec. 2024."
+              https://www.nps.gov/articles/000/gender-performance-in-salsa.htm
             </a>
           </li>
           <li>
@@ -252,28 +247,7 @@ const LaIndiaPage: React.FC = () => {
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Temple University. "Gender Dynamics and Performance in Salsa Music."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://viberate.com/artist/la-india-top-songs/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              Viberate. "La India Top Songs."
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://www.billboard.com/articles/news/awards/1235699920/la-india-salsa-pioneer-award-latin-women-in-music"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              Billboard. "La India Receives Salsa Music Pioneer Award at Latin
-              Women in Music."
+              https://scholarshare.temple.edu/bitstream/handle/20.500.12613/1255/Gainer_temple_0225M_12616.pdf?sequence=1&isAllowed=y
             </a>
           </li>
         </ul>
@@ -282,16 +256,15 @@ const LaIndiaPage: React.FC = () => {
   );
 
   const discography = [
-    "Explorando (1978)",
-    "Energized (1979)",
-    "La Ceiba (with Celia Cruz, 1979)",
-    "Unchained Force (1980)",
-    "Night Raider (1981)",
-    "Sabor a Pueblo (1976)",
-    "La Hija de Guaguancó (2013)",
+    "Breaking Night (1990)",
+    "Llegó La India (1992)",
     "Dicen Que Soy (1994)",
-    "Esa Soy Yo (2019)",
-    "Catharsis (2023)",
+    "Sobre el Fuego (1997)",
+    "Sola (1999)",
+    "Latin Songbird: Mi Alma y Corazón (2002)",
+    "Soy Diferente (2006)",
+    "Única (2010)",
+    "Intensamente con Canciones de Juan Gabriel (2015)",
     // Add more albums as needed
   ];
 
