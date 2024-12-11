@@ -6,12 +6,15 @@ const Home: React.FC = () => {
   return (
     <div className="container mx-auto px-4 py-12">
       <section className="text-center mb-12">
-        <h1 className="text-5xl font-bold text-salsa mb-4">
-          Welcome to Salsa Icons
-        </h1>
-        <p className="text-xl text-gray-700">
+        <h1 className="text-5xl font-bold text-salsa mb-4">Salsa Icons</h1>
+        <p className="text-xl text-black">
           Explore the journeys of iconic female artists and their triumphs over
           cultural and structural obstacles.
+        </p>
+        <p className="text-xl text-gray-500">
+          By Robyn An, Sam Dobson, Aryaman Himatsingka, Jane Kraprayoon, and
+          Barkha Seth for Professor Christopher Washburne's Salsa, Soca, and
+          Reggae class.{" "}
         </p>
       </section>
 
