@@ -633,6 +633,59 @@ const Home: React.FC = () => {
             . Accessed 9 Dec. 2024.
           </li>
         </ul>
+        <h3 className="text-xl font-semibold text-salsa mb-2">
+          Yolanda Rivera
+        </h3>
+        <ul className="list-disc list-inside mb-4">
+          <li className="mb-2">
+            Caribe, Isla. “40. La Dama de La Salsa: Yolanda Rivera.”
+            <a
+              href="https://www.youtube.com/watch?v=BaGfKpeuMHo"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              YouTube
+            </a>
+            , 23 May 2019. Accessed 9 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Peña, Tomás. “Boricua Pioneer, Dama de La Salsa: Yolanda Rivera.”
+            <a
+              href="https://latinjazznet.com/artist-profiles/boricua-pioneer-dama-de-la-salsa-yolanda-rivera/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              Latin Jazz Network
+            </a>
+            , 14 June 2021. Accessed 1 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Santiago, Javier. “Se Une Yolanda al Día Nacional.”
+            <a
+              href="https://prpop.org/2023/03/se-une-yolanda-al-dia-nacional/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              Fundación Nacional Para La Cultura Popular
+            </a>
+            , 2 Mar. 2023. Accessed 2 Dec. 2024.
+          </li>
+          <li className="mb-2">
+            Wright, Amaranta. “Top 10 Female Salsa Singers.”
+            <a
+              href="https://www.latinolife.co.uk/articles/top-10-female-salsa-singers"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:underline ml-1"
+            >
+              Latinolife
+            </a>
+            . Accessed 1 Dec. 2024.
+          </li>
+        </ul>
       </section>
     </div>
   );
