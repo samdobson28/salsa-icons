@@ -6,11 +6,21 @@ import ArtistLayout from "../../../components/ArtistLayout";
 const CeliaCruzPage: React.FC = () => {
   // Extracting the notable pieces mentioned in the text as the discography:
   const discography = [
-    "Guantanamera (1968)",
-    "Bemba Colora (1966)",
-    "Quimbara (1974)",
-    "Cucula (1975)",
+    "Cuba's Foremost Rhythm Singer (1958)",
+    "Con Amor (1960)",
+    "Canciones Premiadas (1961)",
+    "Cuba y Puerto Rico Son (1966)",
+    "A Ti México (1967)",
+    "Etc. Etc. Etc. (1970)",
+    "Celia & Johnny (1974)",
+    "Celia & Willie (1981)",
+    "De Nuevo (1986)",
+    "Canta (1991)",
+    "Cuba's Queen of Rhythm (1995)",
+    "Celia Cruz & Friends: A Night of Salsa (1999)",
     "La Negra Tiene Tumbao (2001)",
+    "Regalo del Alma (2003)",
+    // Add
   ];
 
   // Keep the text EXACT. Only add headings/sections.
@@ -65,7 +75,8 @@ Celia Cruz redefined Afro-Caribbean music by blending traditional sounds with mo
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Billboard. "10 Eternal Celia Cruz Songs." Billboard, Accessed 8 Dec. 2024.."
+              Billboard. "10 Eternal Celia Cruz Songs." Billboard, Accessed 8
+              Dec. 2024.."
             </a>
           </li>
           <li>
@@ -75,7 +86,8 @@ Celia Cruz redefined Afro-Caribbean music by blending traditional sounds with mo
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-             National Women's History Museum. "Celia Cruz." Women’s History, Accessed 8 Dec. 2024."
+              National Women's History Museum. "Celia Cruz." Women’s History,
+              Accessed 8 Dec. 2024."
             </a>
           </li>
           <li>
@@ -85,7 +97,8 @@ Celia Cruz redefined Afro-Caribbean music by blending traditional sounds with mo
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Celia Cruz Official Website. "Biography." Celia Cruz, Accessed 8 Dec. 2024."
+              Celia Cruz Official Website. "Biography." Celia Cruz, Accessed 8
+              Dec. 2024."
             </a>
           </li>
           <li>
@@ -95,8 +108,8 @@ Celia Cruz redefined Afro-Caribbean music by blending traditional sounds with mo
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
             >
-              Woodlawn Cemetery and Conservancy. "Celia Cruz: How the Queen of Salsa Changed Latin Music." Accessed 8 Dec. 2024.
-"
+              Woodlawn Cemetery and Conservancy. "Celia Cruz: How the Queen of
+              Salsa Changed Latin Music." Accessed 8 Dec. 2024. "
             </a>
           </li>
           <li>

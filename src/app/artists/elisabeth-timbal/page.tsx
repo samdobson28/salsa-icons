@@ -7,18 +7,18 @@ const ElisabethTimbalPage: React.FC = () => {
   // Extracting mentioned album from the text:
   // "La Reina Del Timbal” album with Bobby Cruz in 2023.
   const discography = [
-    "Cumbia Sampuesana · 2023",
-    "La Cadenita · 2024",
-    "Pal Bailador · 2024",
-    "La Reina del Timbal · 2023",
-    "Homenaje al Gran Combo · 2023",
-    "La Danza del Mono · 2023",
-    "Movete · 2023",
-    "Medley Cumbias Navideñas · 2022",
-    "Rompe el Cuero · 2021",
-    "Ya No Te Quiero · 2022",
-    "Para No Verte Más · 2024",
-    "Cumbia Cienaguera · 2024",
+    "Rompe el Cuero (2021)",
+    "Ya No Te Quiero (2022)",
+    "Medley Cumbia Navideñas (2022)",
+    "Cumbia Sampuesana (2023)",
+    "Pal Bailador (2023)",
+    "La Danza del Mono (2023)",
+    "La Reina del Timbal (2023)",
+    "La Cadenita (2023)",
+    "Homenaje El Gran Combo (2023)",
+    "Para No Verte Más (2024)",
+    "Cumbia Cienaguera (2024)",
+    // Add more albums as needed
   ];
 
   // Keep the text EXACT. Only add headings/sections as requested.

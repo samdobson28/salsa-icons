@@ -4,18 +4,19 @@ import React from "react";
 import ArtistLayout from "../../../components/ArtistLayout";
 
 const YolandaRiveraPage: React.FC = () => {
-  // Extract discography from the text:
-  // Mentioned albums under "Success: Awards, Influence, and Innovation" section:
-  // Explorando (1978), Energized (1979), La Ceiba (with Celia Cruz, 1979), Unchained Force (1980), Night Raider (1981)
-  // Also mentioned: Sabor a Pueblo (1976), La Hija de Guaguancó (2013)
   const discography = [
-    "Sabor a Pueblo (1976)",
     "Explorando (1978)",
     "Energized (1979)",
-    "La Ceiba (with Celia Cruz, 1979)",
+    "La Ceiba (1979)",
     "Unchained Force (1980)",
     "Night Raider (1981)",
+    "De Puerto Rico Bailable y Más (1988)",
+    "Otra Vez (1988)",
+    "Salsa Tropical (1990)",
+    "Alma Caribeña (1995)",
+    "Y Seguimos Haciendo Historia (2000)",
     "La Hija de Guaguancó (2013)",
+    // Add more albums as needed
   ];
 
   const biography = (
@@ -150,16 +151,55 @@ const YolandaRiveraPage: React.FC = () => {
       <section className="mb-6">
         <h2 className="text-2xl font-semibold text-salsa mb-2">Sources</h2>
         <p>
-          https://www.latinolife.co.uk/articles/top-10-female-salsa-singers (1)
+          <a
+            href="https://www.latinolife.co.uk/articles/top-10-female-salsa-singers"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://www.latinolife.co.uk/articles/top-10-female-salsa-singers
+          </a>{" "}
+          (1)
           <br />
-          https://en.wikipedia.org/wiki/La_Sonora_Ponce%C3%B1a (2)
+          <a
+            href="https://en.wikipedia.org/wiki/La_Sonora_Ponce%C3%B1a"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://en.wikipedia.org/wiki/La_Sonora_Ponce%C3%B1a
+          </a>{" "}
+          (2)
           <br />
-          https://latinjazznet.com/artist-profiles/boricua-pioneer-dama-de-la-salsa-yolanda-rivera/
+          <a
+            href="https://latinjazznet.com/artist-profiles/boricua-pioneer-dama-de-la-salsa-yolanda-rivera/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://latinjazznet.com/artist-profiles/boricua-pioneer-dama-de-la-salsa-yolanda-rivera/
+          </a>{" "}
           (3)
           <br />
-          https://prpop.org/2023/03/se-une-yolanda-al-dia-nacional/ (4)
+          <a
+            href="https://prpop.org/2023/03/se-une-yolanda-al-dia-nacional/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://prpop.org/2023/03/se-une-yolanda-al-dia-nacional/
+          </a>{" "}
+          (4)
           <br />
-          https://www.youtube.com/watch?v=BaGfKpeuMHo (5)
+          <a
+            href="https://www.youtube.com/watch?v=BaGfKpeuMHo"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-blue-600 hover:underline"
+          >
+            https://www.youtube.com/watch?v=BaGfKpeuMHo
+          </a>{" "}
+          (5)
         </p>
       </section>
     </div>
