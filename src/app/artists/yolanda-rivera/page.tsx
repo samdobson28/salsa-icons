@@ -27,25 +27,23 @@ const YolandaRiveraPage: React.FC = () => {
           Origins, Musical Inspirations, and Early Career
         </h2>
         <p className="mb-4">
-          Yolanda Rivera is best known as a lead singer of La Sonora Ponceña, a
-          famous Puerto Rican salsa band that fused modern Cuban music with
-          jazz. She was a female artist who left a lasting impression on salsa
-          music. In fact, Yolanda is also known as “La Sonera Más Brava y Más
-          Querida” (which translates to "The Fiercest and Most Beloved Sonera").
+          Yolanda Rivera is best known as a lead singer of La Sonora Ponceña, 
+          a famous Puerto Rican salsa band that fused modern Cuban music with jazz. 
+          She was a female artist who left a lasting impression on salsa music. 
+          In fact, Yolanda is also known as “La Sonera Más Brava y Más Querida” 
+          (which translates to "The Fiercest and Most Beloved Sonera").
         </p>
         <p className="mb-4">
-          Yolanda Rivera was born in Ponce, Puerto Rico, in 1951, as the
-          youngest of 11 siblings. During her childhood, her large family played
-          a significant role in shaping her love for music. In an interview,
-          Yolanda revealed that her family didn't have much but used household
-          items as instruments. From a young age, she grew up surrounded by the
-          sounds of drums, and there was always Cuban music playing in her
-          house. With music constantly in her home, Yolanda realized her
-          vocation as a singer early on. She also met her musical idol, Celeste
-          Mendoza, as a child, further inspiring her to become a singer.
-          Additional influences included Los Van Van, Los Papines, Israel
-          “Cachao” López, Ismael Rivera, Chamaco Rivera, and Pete “El Conde”
-          Rodríguez.
+          Yolanda Rivera was born in Ponce, Puerto Rico, in 1951, as the youngest of 
+          11 siblings. During her childhood, her large family played a significant 
+          role in shaping her love for music. In an interview, Yolanda revealed that 
+          her family didn't have much but used household items as instruments. From 
+          a young age, she grew up surrounded by the sounds of drums, and there was 
+          always Cuban music playing in her house. With music constantly in her home,
+          Yolanda realized her vocation as a singer early on. She also met her musical
+          idol, Celeste Mendoza, as a child, further inspiring her to become a singer. 
+          Additional influences included Los Van Van, Los Papines, Israel “Cachao” López, 
+          Ismael Rivera, Chamaco Rivera, and Pete “El Conde” Rodríguez (Caribe).
         </p>
         <p className="mb-4">
           Yolanda launched her career in Ponce in 1968 as part of a group named
@@ -70,7 +68,7 @@ const YolandaRiveraPage: React.FC = () => {
           music. Yolanda described herself during that era as "determined" to
           keep learning songs and building her repertoire to become a better
           musician. Reflecting on her early career, especially her time in New
-          York, she acknowledged that it was "not easy" (5).
+          York, she acknowledged that it was "not easy" (Caribe).
         </p>
         <p className="mb-4">
           Yolanda's "big break" came by luck. She met Don Quique Lucca, the
@@ -89,7 +87,7 @@ const YolandaRiveraPage: React.FC = () => {
           are, and what you're capable of." To counteract gender discrimination,
           Yolanda described herself as unapologetically taking up space: "On
           occasion, I've had to put some people in their place, but overall,
-          I've been lucky" (3).
+          I've been lucky" (Peña).
         </p>
         <p className="mb-4">
           However, one of Yolanda Rivera's most notable career interruptions
@@ -116,10 +114,9 @@ const YolandaRiveraPage: React.FC = () => {
           Success: Awards, Influence, and Innovation
         </h2>
         <p className="mb-4">
-          Some of Yolanda Rivera's biggest hits include “Ahora Sí,” “Hasta Que
-          Se Rompa El Cuero,” “Se Formó,” “La Rumba en el Patio,” “Madrugando,”
-          “Borinquen,” and “Lo Mío Es Cantar” (with Borinquen being her personal
-          favorite). Alongside Celia Cruz, Yolanda Rivera was one of the two
+          "Some of Yolanda Rivera's biggest hits include Ahora Sí, Hasta Que Se Rompa
+          El Cuero, Se Formó, La Rumba en el Patio, Madrugando, Borinquen, and Lo Mío
+          Es Cantar" (Peña). Alongside Celia Cruz, Yolanda Rivera was one of the two
           women who left a lasting mark on La Sonora Ponceña, recording a total
           of eight albums. Some of her most notable works include:
         </p>
